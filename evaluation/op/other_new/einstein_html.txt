@@ -1,0 +1,1714 @@
+<!DOCTYPE html>
+<!-- saved from url=(0070)https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism -->
+<html class="js-wf-loaded" lang="en">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <script async="" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/cb=gapi.loaded_0">
+  </script>
+  <script async="" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/analytics.js.download">
+  </script>
+  <script async="" gapi_processed="true" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/client-plusone.js.download" type="text/javascript">
+  </script>
+  <script async="" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/p.js.download">
+  </script>
+  <script async="" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/sdk.js.download" type="text/javascript">
+  </script>
+  <script async="" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/-3-main.js-qtext2.base-26-a48691fe51cb39f8.js.download" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   window.MathJax = {"showMathMenu":false,"messageStyle":"none","errorSettings":{"style":{"color":"#000000","font-style":"normal"}},"HTML-CSS":{"linebreaks":{"automatic":true,"width":"container"},"EqnChunk":150,"EqnChunkDelay":20},"tex2jax":{"inlineMath":[["[math]","[/math]"]],"displayMath":[],"ignoreClass":"edit_latex|qtext_editor_content|ignore_latex","processClass":"render_latex","preview":"none"},"TeX":{"noUndefined":{"attributes":{"mathcolor":"red"}},"Macros":{"C":"{\\mathbb{C}}","N":"{\\mathbb{N}}","O":"{\\emptyset}","Q":"{\\mathbb{Q}}","R":"{\\mathbb{R}}","Z":"{\\mathbb{Z}}"}},"fast-preview":{"disabled":true}};
+  </script>
+  <script async="" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/MathJax.js.download" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   window.Q = window.Q || {};window.Q.fontFamilies = ["q-icons", "q_serif"];window.Q.loaderConfig = {"qtext2/base": "https://qsbr.ec.quoracdn.net/-3-main.js:qtext2.base-26-a48691fe51cb39f8.js"};
+  </script>
+  <script type="text/javascript">
+   var clicks=[],handleClicks=!0,handleUnready=function(e){if(handleClicks){for(var n=e.target;n&&n.tagName&&"A"!=n.tagName;)n=n.parentNode;if(n&&n.getAttribute&&"#"===n.getAttribute("href")){clicks.push(e.target);var t=document.getElementById("async_spinner");if(!t){t=document.createElement("div"),t.setAttribute("id","async_spinner"),t.setAttribute("class","__live_spinner");var a=document.createElement("div");a.setAttribute("class","__live_spinner_indicator"),require.whenReady("shared/loading",function(){var e=require("shared/loading"),n=e.createDots("small");a.appendChild(n),t.appendChild(a),document.body.appendChild(t)})}}}};window.clearHandlers=function(){if(handleClicks){handleClicks=!1,document.detachEvent?document.detachEvent("onclick",handleUnready):document.removeEventListener("click",handleUnready,!0);for(var e=0;e<clicks.length;++e)clicks[e].click();var n=document.getElementById("async_spinner");n&&n.parentNode.removeChild(n)}},document.attachEvent?document.attachEvent("onclick",handleUnready):document.addEventListener("click",handleUnready,!0);
+  </script>
+  <link href="https://www.quora.com/opensearch/description.xml" rel="search" title="Quora" type="application/opensearchdescription+xml"/>
+  <link href="https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism?page_id=2" rel="next"/>
+  <link href="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/-3-main.css-26-3f9ffbd06b38842f.css" rel="stylesheet" type="text/css"/>
+  <script src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/-3-early.js-26-929d85bbc11c921b.js.download" type="text/javascript">
+  </script>
+  <link as="script" href="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/-3-main.js-26-ca55959ec967f1ad.js.download" rel="preload"/>
+  <script async="" defer="" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/-3-main.js-26-ca55959ec967f1ad.js.download" type="text/javascript">
+  </script>
+  <title>
+   Does Richard Dawkins like Unitarian Universalism? - Quora
+  </title>
+  <meta content="noarchive" name="robots"/>
+  <link href="https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism" rel="canonical"/>
+  <link href="https://qsf.ec.quoracdn.net/-3-jsons.desktop_push_manifest.json-26-13c60934743a183a.json" rel="manifest"/>
+  <style>
+   @-webkit-keyframes insQ_100 {  from {  outline: 1px solid transparent  } to {  outline: 0px solid transparent }  }
+canvas[data-src] { animation-duration: 0.001s; animation-name: insQ_100; -webkit-animation-duration: 0.001s; -webkit-animation-name: insQ_100;  }
+  </style>
+  <style>
+   @-webkit-keyframes insQ_101 {  from {  outline: 1px solid transparent  } to {  outline: 0px solid transparent }  }
+img { animation-duration: 0.001s; animation-name: insQ_101; -webkit-animation-duration: 0.001s; -webkit-animation-name: insQ_101;  }
+  </style>
+  <style type="text/css">
+   .MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+.MathJax_Menu_Button .MathJax_Hover_Arrow {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; font-family: 'Courier New',Courier; font-size: 9px; color: #F0F0F0}
+.MathJax_Menu_Button .MathJax_Hover_Arrow span {display: block; background-color: #AAA; border: 1px solid; border-radius: 3px; line-height: 0; padding: 4px}
+.MathJax_Hover_Arrow:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_Hover_Arrow:hover span {background-color: #CCC!important}
+  </style>
+  <style type="text/css">
+   #MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_About.MathJax_MousePost {outline: none}
+.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 2px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_MenuItem {padding: 2px 2em; background: transparent}
+.MathJax_MenuArrow {position: absolute; right: .5em; padding-top: .25em; color: #666666; font-size: .75em}
+.MathJax_MenuActive .MathJax_MenuArrow {color: white}
+.MathJax_MenuArrow.RTL {left: .5em; right: auto}
+.MathJax_MenuCheck {position: absolute; left: .7em}
+.MathJax_MenuCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuRadioCheck {position: absolute; left: 1em}
+.MathJax_MenuRadioCheck.RTL {right: 1em; left: auto}
+.MathJax_MenuLabel {padding: 2px 2em 4px 1.33em; font-style: italic}
+.MathJax_MenuRule {border-top: 1px solid #CCCCCC; margin: 4px 1px 0px}
+.MathJax_MenuDisabled {color: GrayText}
+.MathJax_MenuActive {background-color: Highlight; color: HighlightText}
+.MathJax_MenuDisabled:focus, .MathJax_MenuLabel:focus {background-color: #E8E8E8}
+.MathJax_ContextMenu:focus {outline: none}
+.MathJax_ContextMenu .MathJax_MenuItem:focus {outline: none}
+#MathJax_AboutClose {top: .2em; right: .2em}
+.MathJax_Menu .MathJax_MenuClose {top: -10px; left: -10px}
+.MathJax_MenuClose {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; font-family: 'Courier New',Courier; font-size: 24px; color: #F0F0F0}
+.MathJax_MenuClose span {display: block; background-color: #AAA; border: 1.5px solid; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; line-height: 0; padding: 8px 0 6px}
+.MathJax_MenuClose:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_MenuClose:hover span {background-color: #CCC!important}
+.MathJax_MenuClose:hover:focus {outline: none}
+  </style>
+  <style type="text/css">
+   .MJX_Assistive_MathML {position: absolute!important; top: 0; left: 0; clip: rect(1px, 1px, 1px, 1px); padding: 1px 0 0 0!important; border: 0!important; height: 1px!important; width: 1px!important; overflow: hidden!important; display: block!important; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none}
+.MJX_Assistive_MathML.MJX_Assistive_MathML_Block {width: 100%!important}
+  </style>
+  <style type="text/css">
+   #MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+#MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
+#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+  </style>
+  <style type="text/css">
+   .MathJax_Preview {color: #888}
+#MathJax_Message {position: fixed; left: 1em; bottom: 1.5em; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #000000; font-style: normal}
+  </style>
+  <style type="text/css">
+   .MJXp-script {font-size: .8em}
+.MJXp-right {-webkit-transform-origin: right; -moz-transform-origin: right; -ms-transform-origin: right; -o-transform-origin: right; transform-origin: right}
+.MJXp-bold {font-weight: bold}
+.MJXp-italic {font-style: italic}
+.MJXp-scr {font-family: MathJax_Script,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-frak {font-family: MathJax_Fraktur,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-sf {font-family: MathJax_SansSerif,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-cal {font-family: MathJax_Caligraphic,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-mono {font-family: MathJax_Typewriter,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-largeop {font-size: 150%}
+.MJXp-largeop.MJXp-int {vertical-align: -.2em}
+.MJXp-math {display: inline-block; line-height: 1.2; text-indent: 0; font-family: 'Times New Roman',Times,STIXGeneral,serif; white-space: nowrap; border-collapse: collapse}
+.MJXp-display {display: block; text-align: center; margin: 1em 0}
+.MJXp-math span {display: inline-block}
+.MJXp-box {display: block!important; text-align: center}
+.MJXp-box:after {content: " "}
+.MJXp-rule {display: block!important; margin-top: .1em}
+.MJXp-char {display: block!important}
+.MJXp-mo {margin: 0 .15em}
+.MJXp-mfrac {margin: 0 .125em; vertical-align: .25em}
+.MJXp-denom {display: inline-table!important; width: 100%}
+.MJXp-denom > * {display: table-row!important}
+.MJXp-surd {vertical-align: top}
+.MJXp-surd > * {display: block!important}
+.MJXp-script-box > *  {display: table!important; height: 50%}
+.MJXp-script-box > * > * {display: table-cell!important; vertical-align: top}
+.MJXp-script-box > *:last-child > * {vertical-align: bottom}
+.MJXp-script-box > * > * > * {display: block!important}
+.MJXp-mphantom {visibility: hidden}
+.MJXp-munderover {display: inline-table!important}
+.MJXp-over {display: inline-block!important; text-align: center}
+.MJXp-over > * {display: block!important}
+.MJXp-munderover > * {display: table-row!important}
+.MJXp-mtable {vertical-align: .25em; margin: 0 .125em}
+.MJXp-mtable > * {display: inline-table!important; vertical-align: middle}
+.MJXp-mtr {display: table-row!important}
+.MJXp-mtd {display: table-cell!important; text-align: center; padding: .5em 0 0 .5em}
+.MJXp-mtr > .MJXp-mtd:first-child {padding-left: 0}
+.MJXp-mtr:first-child > .MJXp-mtd {padding-top: 0}
+.MJXp-mlabeledtr {display: table-row!important}
+.MJXp-mlabeledtr > .MJXp-mtd:first-child {padding-left: 0}
+.MJXp-mlabeledtr:first-child > .MJXp-mtd {padding-top: 0}
+.MJXp-merror {background-color: #FFFF88; color: #CC0000; border: 1px solid #CC0000; padding: 1px 3px; font-style: normal; font-size: 90%}
+.MJXp-scale0 {-webkit-transform: scaleX(.0); -moz-transform: scaleX(.0); -ms-transform: scaleX(.0); -o-transform: scaleX(.0); transform: scaleX(.0)}
+.MJXp-scale1 {-webkit-transform: scaleX(.1); -moz-transform: scaleX(.1); -ms-transform: scaleX(.1); -o-transform: scaleX(.1); transform: scaleX(.1)}
+.MJXp-scale2 {-webkit-transform: scaleX(.2); -moz-transform: scaleX(.2); -ms-transform: scaleX(.2); -o-transform: scaleX(.2); transform: scaleX(.2)}
+.MJXp-scale3 {-webkit-transform: scaleX(.3); -moz-transform: scaleX(.3); -ms-transform: scaleX(.3); -o-transform: scaleX(.3); transform: scaleX(.3)}
+.MJXp-scale4 {-webkit-transform: scaleX(.4); -moz-transform: scaleX(.4); -ms-transform: scaleX(.4); -o-transform: scaleX(.4); transform: scaleX(.4)}
+.MJXp-scale5 {-webkit-transform: scaleX(.5); -moz-transform: scaleX(.5); -ms-transform: scaleX(.5); -o-transform: scaleX(.5); transform: scaleX(.5)}
+.MJXp-scale6 {-webkit-transform: scaleX(.6); -moz-transform: scaleX(.6); -ms-transform: scaleX(.6); -o-transform: scaleX(.6); transform: scaleX(.6)}
+.MJXp-scale7 {-webkit-transform: scaleX(.7); -moz-transform: scaleX(.7); -ms-transform: scaleX(.7); -o-transform: scaleX(.7); transform: scaleX(.7)}
+.MJXp-scale8 {-webkit-transform: scaleX(.8); -moz-transform: scaleX(.8); -ms-transform: scaleX(.8); -o-transform: scaleX(.8); transform: scaleX(.8)}
+.MJXp-scale9 {-webkit-transform: scaleX(.9); -moz-transform: scaleX(.9); -ms-transform: scaleX(.9); -o-transform: scaleX(.9); transform: scaleX(.9)}
+.MathJax_PHTML .noError {vertical-align: ; font-size: 90%; text-align: left; color: black; padding: 1px 3px; border: 1px solid}
+  </style>
+  <style type="text/css">
+   .fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}.fb_link img{border:none}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_reset .fb_dialog_legacy{overflow:visible}.fb_dialog_advanced{padding:10px;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px}.fb_dialog_content{background:#fff;color:#333}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;_background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/s816eWC-2sl.gif);cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{top:5px;left:5px;right:auto}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent;_background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/s816eWC-2sl.gif)}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent;_background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yL/r/s816eWC-2sl.gif)}.fb_dialog_loader{background-color:#f6f7f9;border:1px solid #606060;font-size:24px;padding:20px}.fb_dialog_top_left,.fb_dialog_top_right,.fb_dialog_bottom_left,.fb_dialog_bottom_right{height:10px;width:10px;overflow:hidden;position:absolute}.fb_dialog_top_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 0;left:-10px;top:-10px}.fb_dialog_top_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -10px;right:-10px;top:-10px}.fb_dialog_bottom_left{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -20px;bottom:-10px;left:-10px}.fb_dialog_bottom_right{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ye/r/8YeTNIlTZjm.png) no-repeat 0 -30px;right:-10px;bottom:-10px}.fb_dialog_vert_left,.fb_dialog_vert_right,.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{position:absolute;background:#525252;filter:alpha(opacity=70);opacity:.7}.fb_dialog_vert_left,.fb_dialog_vert_right{width:10px;height:100%}.fb_dialog_vert_left{margin-left:-10px}.fb_dialog_vert_right{right:0;margin-right:-10px}.fb_dialog_horiz_top,.fb_dialog_horiz_bottom{width:100%;height:10px}.fb_dialog_horiz_top{margin-top:-10px}.fb_dialog_horiz_bottom{bottom:0;margin-bottom:-10px}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{-webkit-transform:none;height:100%;margin:0;overflow:visible;position:absolute;top:-10000px;left:0;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{width:auto;height:auto;min-height:initial;min-width:initial;background:none}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{color:#fff;display:block;padding-top:20px;clear:both;font-size:18px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .45);position:absolute;bottom:0;left:0;right:0;top:0;width:100%;min-height:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_content .dialog_header{-webkit-box-shadow:white 0 1px 1px -1px inset;background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#738ABA), to(#2C4987));border-bottom:1px solid;border-color:#1d4088;color:#fff;font:14px Helvetica, sans-serif;font-weight:bold;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{-webkit-font-smoothing:subpixel-antialiased;height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#4966A6), color-stop(.5, #355492), to(#2A4887));border:1px solid #29487d;-webkit-background-clip:padding-box;-webkit-border-radius:3px;-webkit-box-shadow:rgba(0, 0, 0, .117188) 0 1px 1px inset, rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-width:85px;line-height:18px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{border:none;background:none;color:#fff;font:12px Helvetica, sans-serif;font-weight:bold;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #555;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f6f7f9;border:1px solid #555;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-repeat:no-repeat;background-position:50% 50%;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_hide_iframes iframe{position:relative;left:-10000px}.fb_iframe_widget_loader{position:relative;display:inline-block}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}.fb_iframe_widget_loader iframe{min-height:32px;z-index:2;zoom:1}.fb_iframe_widget_loader .FB_Loader{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat;height:32px;width:32px;margin-left:-16px;position:absolute;left:50%;z-index:4}
+  </style>
+ </head>
+ <body class="web_page logged_out lang_en gating-comment_upvoters-off gating-feed_desktop_modal-off">
+  <script charset="utf-8" src="https://tch753821.tch.quora.com/up/chan33-8888/updates?min_seq=3752539113&amp;channel=main-w-dep3000-222427091097430322&amp;hash=11132634049741805664&amp;callback=jsonp15a85eee05b2ca2d0e873a46">
+  </script>
+  <div id="MathJax_Message" style="display: none;">
+  </div>
+  <script id="settings_js" type="text/javascript">
+   define("gating", [], {"view_tracker_debug": false, "qfeed_log_impression_debug": false, "android_debuggable": false, "show_native_console_log": false, "long_press": false, "force_mobile_app_feed_modals": null, "enable_reading_time_logging": false, "cchannel_websockets": false, "ios_spotlight_features_enabled": false, "client_side_batched_logging_interval": 2000, "desktop_push_notifs": false, "batched_server_calls": true, "render_tweets_as_embeds": false, "related_stories": false, "enable_qtext_av": false, "use_native_selection": false, "feed_desktop_modal": false, "client_side_logging": false, "inline_prefetch_qtext_editor": false, "client_side_batched_logging_use_log_end_point": true, "log_mobile_js_message_error": true});
+define("settings", [], {"pageIsMobile": false, "subdomain_of_network": null, "mobileRedirect": false, "formkey": "c3c49caeafc85e8a3556fc8d34f24ce3", "isLoggedIn": false, "postkey": "648e3668ed2acd1b45866ed226e97b20", "androidAppPackageName": "com.quora.android", "serverCallUrl": "/webnode2/server_call_POST", "appURL": null, "interface_strings": {"please_try_again": "Something went wrong. Please try again.", "ok": "OK", "in_progress_warning": "Warning: Your work in progress has not been saved. Leaving or reloading this page will discard any unsaved changes.", "please_refresh": "Please refresh this page to receive new updates.", "update": "Update", "trying_to_regain": "Trying to regain internet connection...", "done": "Done", "connection_problem": "Internet connection problem.", "cancel": "Cancel"}, "enableFrameBusting": true, "isCrawler": false, "force_use_absolute_links": false, "instance": "main", "speedStandard": {"owner": 21, "e2e": null, "server_side": 600, "server_side_goal": 350}, "pageMode": "post_reload", "useServiceWorkers": false, "batchedServerCallUrl": "/webnode2/batched_server_call_POST", "revision": "3912800ae93808f67c12cb7c75425e3a3403c6e8", "googleClientId": "917071888555.apps.googleusercontent.com", "interfaceLanguage": "en", "logComponentTime": false, "disablePrefetchTabs": false, "request_id": "1b9298cd4641481590892cdfd2d42dc4", "nid": 0, "enableAccessToken": 0, "action": "q", "controller": "question", "fbLanguageCode": "en_US", "clientTrackerTrail": null, "googleCookiePolicy": "http://quora.com", "cookiePrefix": "m", "fbAppId": "136609459636", "trail": null, "isParallel": true, "componentInspector": false, "subdomain_name": null, "stripePublishableKey": "pk_live_9MI7iqAKfs033l029FQIVsV3", "actionTrail": null, "windowId": "dep3000-222427091097430322", "enableClientTracker": false, "debug": false, "subdomain_suffix": "quora.com"});
+  </script>
+  <div class="InteractionModeBanner fade_out" id="__w2_mUuD9Q9_banner" style="display: none;">
+   <div id="__w2_mUuD9Q9_message">
+    This page may be out of date.
+    <span class="hidden" id="__w2_mUuD9Q9_draftable">
+     <a href="https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism#" id="__w2_mUuD9Q9_resume">
+      Save your draft
+     </a>
+     before refreshing this page.
+    </span>
+    <span id="__w2_mUuD9Q9_not_draftable">
+     Submit any pending changes before refreshing this page.
+    </span>
+   </div>
+  </div>
+  <div class="ErrorBanner" id="__w2_fA0se3B_banner">
+   <div id="__w2_fA0se3B_message">
+    <span id="__w2_fA0se3B_text">
+    </span>
+    <a href="https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism#" id="__w2_fA0se3B_hide">
+     Hide this message
+    </a>
+    .
+   </div>
+  </div>
+  <div id="__w2_modal_container_">
+   <a class="modal_fixed_close hidden" id="__w2_modal_close_">
+   </a>
+   <div class="modal_overlay hidden" id="__w2_modal_overlay_">
+    <div class="modal_wrapper normal" id="__w2_modal_wrapper_">
+    </div>
+   </div>
+  </div>
+  <div id="yNDEDg">
+  </div>
+  <div class="content_page_feed_offset">
+   <div class="NonMemberSiteHeader SiteHeader LoggedOutSiteHeader" id="__w2_fQDq7Gk_header">
+    <div class="header_inner">
+     <div class="header_logo">
+      <a href="https://www.quora.com/">
+       <span>
+        Quora
+       </span>
+      </a>
+     </div>
+     <div class="header_contents">
+      <div class="table_cell_wrapper">
+       <div class="ask_bar">
+        <div class="WithServerCallMessageMixin TypersearchESSelector Selector LookupBarSelector" id="__w2_IKrY8LQ_wrapper" tabindex="-1">
+         <div class="selector_input_interaction">
+          <textarea autofocus="True" class="selector_input text" data-group="js-editable" id="__w2_IKrY8LQ_input" placeholder="Search for questions, people, and topics" rows="1" style="overflow-x: hidden; word-wrap: break-word; height: 29px;" type="text" w2cid="IKrY8LQ"></textarea>
+          <div class="selector_spinner hidden" id="__w2_IKrY8LQ_spinner">
+           <div class="LoadingDots tiny">
+            <div class="dot first">
+            </div>
+            <div class="dot second">
+            </div>
+            <div class="dot third">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="selector_results_container" id="__w2_IKrY8LQ_results_container">
+          <div class="lookup_bar_results_wrapper hidden fade_out" id="__w2_IKrY8LQ_results_wrapper">
+           <div class="results_wrapper">
+            <div class="hidden resistance_wrapper server_message" id="__w2_IKrY8LQ_server_message">
+             <div class="fixit_title" id="__w2_IKrY8LQ_server_message_title">
+             </div>
+             <span class="fixit_note" id="__w2_IKrY8LQ_server_message_note">
+             </span>
+            </div>
+            <div class="interstitials_and_results">
+             <div class="hidden ask_interstitial" id="__w2_IKrY8LQ_ask_mode_interstitial">
+              <p class="ask_interstitial_content">
+               <strong class="ask_interstitial_title" id="__w2_IKrY8LQ_interstitial_title">
+               </strong>
+               <span id="__w2_IKrY8LQ_interstitial_text">
+               </span>
+              </p>
+             </div>
+             <div class="results" id="__w2_IKrY8LQ_results">
+             </div>
+            </div>
+           </div>
+          </div>
+          <div id="__w2_IKrY8LQ_empty_input_prompt">
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="signup_login_buttons">
+       <div class="header_signin_with_search_bar action_button" id="__w2_fQDq7Gk_signup">
+        Sign In
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="closing" id="__w2_dRPCYb7_body_blur">
+   </div>
+   <div class="ContentWrapper">
+    <div id="__w2_B1HZ0lY_content">
+     <div id="GCoGbw">
+      <div class="QuestionTopBanner top_banner">
+      </div>
+     </div>
+     <div class="NewGridQuestionPage QuestionMain">
+      <div class="grid_page">
+       <div class="layout_2col_main">
+        <div class="header">
+         <div id="SdNAop">
+          <div class="QuestionArea">
+           <div id="xqfIVK">
+            <div class="QuestionTopicHorizontalList TopicList" id="__w2_HMDoASf_topics_list">
+             <div id="zMajmp">
+              <div class="QuestionTopicListItems SimpleToggle TopicListItems2 Toggle QuestionTopicHorizontalListItems" id="__w2_O5wfIMs__truncated">
+               <span id="mVSlOI">
+                <div class="QuestionTopicListItem TopicListItem topic_pill" id="__w2_hnfHU0l_topic_list_item">
+                 <a class="topic_remove" href="https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism#" id="__w2_hnfHU0l_remove_topic">
+                 </a>
+                 <div id="URhyxo">
+                  <div class="hover_menu hidden white_bg show_nub" id="__w2_DP1ijmV_menu">
+                   <div class="hover_menu_contents" id="__w2_DP1ijmV_menu_contents">
+                   </div>
+                  </div>
+                  <a action_mousedown="TopicLinkClickthrough" class="TopicNameLink HoverMenu topic_name" href="https://www.quora.com/topic/Unitarian-Universalism" id="__w2_DP1ijmV_link" target="">
+                   <span class="name_text">
+                    <span id="vtrTVt">
+                     <span class="TopicNameSpan TopicName" id="__w2_ovmnKb0_card">
+                      Unitarian Universalism
+                     </span>
+                    </span>
+                   </span>
+                  </a>
+                 </div>
+                </div>
+               </span>
+               <span id="Urpuxf">
+                <div class="QuestionTopicListItem TopicListItem topic_pill" id="__w2_BHtKyej_topic_list_item">
+                 <a class="topic_remove" href="https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism#" id="__w2_BHtKyej_remove_topic">
+                 </a>
+                 <div id="YYiWTL">
+                  <div class="hover_menu hidden white_bg show_nub" id="__w2_hghVXkr_menu">
+                   <div class="hover_menu_contents" id="__w2_hghVXkr_menu_contents">
+                   </div>
+                  </div>
+                  <a action_mousedown="TopicLinkClickthrough" class="TopicNameLink HoverMenu topic_name" href="https://www.quora.com/topic/Richard-Dawkins-biologist-author" id="__w2_hghVXkr_link" target="">
+                   <span class="name_text">
+                    <span id="PTEMLV">
+                     <span class="TopicNameSpan TopicName" id="__w2_Uis2fkc_card">
+                      Richard Dawkins (biologist, author)
+                     </span>
+                    </span>
+                   </span>
+                  </a>
+                 </div>
+                </div>
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div id="UqcYfm">
+            <div class="question_text_edit">
+             <h1>
+              <div class="_type_serif_title_large">
+               <span id="pqgUpB">
+                <span id="__w2_IqxOKEO_question_text">
+                 <span class="rendered_qtext">
+                  Does Richard Dawkins like Unitarian Universalism?
+                 </span>
+                </span>
+               </span>
+              </div>
+             </h1>
+            </div>
+           </div>
+           <div id="zucvUy">
+            <div class="question_details">
+             <div class="question_details_text inline_editor_content" id="__w2_vLBktKI_text">
+              <span class="rendered_qtext">
+               This is a religious type of organization dedicated to no particular religion and follows no religious dogmas.
+              </span>
+             </div>
+            </div>
+           </div>
+           <div class="form_buttons hidden shared_form" id="__w2_RCCUg1d_details_container">
+            <a class="submit_button" id="__w2_RCCUg1d_question_update">
+             Update
+            </a>
+            <a class="cancel_button" id="__w2_RCCUg1d_question_cancel">
+             Cancel
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div id="wvolFa">
+         <div class="PromptsList">
+          <div id="azmDED">
+          </div>
+          <div id="iwFTce">
+          </div>
+          <div id="aFRqjN">
+          </div>
+          <div id="tkJdjS">
+          </div>
+          <div id="pABYBD">
+          </div>
+          <div id="EycCJV">
+          </div>
+          <div id="UUqrHx">
+          </div>
+          <div id="qyWaZl">
+          </div>
+          <div id="JYBNjw">
+          </div>
+          <div id="lgZtFn">
+          </div>
+         </div>
+        </div>
+        <div id="XKsVqw">
+         <div class="AnswerWikiArea hidden" id="answer_wiki">
+          <h3>
+           Answer Wiki
+          </h3>
+          <div id="ONQgmT">
+           <div class="AnswerWiki" id="__w2_zNhFJTf_wiki">
+            <span class="rendered_qtext">
+            </span>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div id="SnRbeC">
+         <div class="QuestionPageAnswerHeader">
+          <div class="answer_count">
+           5 Answers
+           <span class="writing_now_section">
+            <span id="gNqtsW">
+            </span>
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="new_type_answer_text_small">
+         <a class="anchor" id="__w2_ziWu4He_answers_anchor" name="answers" style="top: -53px;">
+         </a>
+         <div class="AnswerListDiv" id="__w2_ziWu4He_answers">
+          <div class="AnswerPagedList PagedList" id="PXjZCw">
+           <div class="pagedlist_item" id="DKLUEO">
+            <div class="actionable" id="__w2_fAd8Tc6_actionable">
+             <div id="nsDUGG">
+              <div id="RoQRqK">
+               <a name="answer_12068503" target="_blank">
+               </a>
+               <div class="Answer AnswerBase" id="__w2_YH0FDh2_answer">
+                <div>
+                 <div id="pdlEnk">
+                  <div class="AnswerHeader ContentHeader">
+                   <div class="photo_text_layout size_small">
+                    <div class="_layout_photo_wrapper">
+                     <div class="_layout_photo">
+                      <span id="xNnedz">
+                       <div class="hover_menu hidden white_bg show_nub" id="__w2_ISRHx7o_menu">
+                        <div class="hover_menu_contents" id="__w2_ISRHx7o_menu_contents">
+                        </div>
+                       </div>
+                       <span class="photo_tooltip" id="__w2_ISRHx7o_link">
+                        <a href="https://www.quora.com/profile/Desmond-Ravenstone" id="__w2_rP0IVK8_link" target="_blank">
+                         <img alt="Desmond Ravenstone" class="profile_photo_img" height="50" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/main-thumb-24868166-50-prjfowsfzgzqoduroqzdscmkwmwyjqai.jpeg" width="50"/>
+                        </a>
+                        <span id="ILzLDw">
+                        </span>
+                       </span>
+                      </span>
+                     </div>
+                    </div>
+                    <div class="_layout_text_wrapper">
+                     <div class="_layout_text">
+                      <div class="follow_button_wrapper">
+                       <div class="feed_item_answer_user">
+                        <span id="iDWkJn">
+                         <span id="kHINCM">
+                          <div class="hover_menu hidden white_bg show_nub" id="__w2_gfV2s3d_menu">
+                           <div class="hover_menu_contents" id="__w2_gfV2s3d_menu_contents">
+                           </div>
+                          </div>
+                          <span class="" id="__w2_gfV2s3d_link">
+                           <a action_mousedown="UserLinkClickthrough" class="user" href="https://www.quora.com/profile/Desmond-Ravenstone" id="__w2_gfV2s3d_name_link" target="_blank">
+                            Desmond Ravenstone
+                           </a>
+                          </span>
+                         </span>
+                         <span class="IdentityNameCredential ActorNameCredential">
+                          , Former lay leader, Arlington Street Church, Boston MA
+                         </span>
+                        </span>
+                       </div>
+                       <div id="lPwKHp">
+                        <div class="CredibilityFacts pass_color_to_child_links">
+                         <span id="cggtdM">
+                          <a action_mousedown="AnswerPermalinkClickthrough" class="answer_permalink" href="https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism/answer/Desmond-Ravenstone" id="__w2_ZRWvqmv_link" target="_blank">
+                           Written May 4, 2015
+                          </a>
+                         </span>
+                        </div>
+                       </div>
+                      </div>
+                      <div id="VtWovu">
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div id="__w2_YH0FDh2_answer_content">
+                  <div id="RaQJtk">
+                   <div class="ExpandedQText ExpandedAnswer" id="__w2_U5tM91L_expanded">
+                    <span class="rendered_qtext">
+                     It's hard to answer directly and honestly, because Dawkins himself has never answered this question. In fact, I have to wonder if anyone has even asked him.
+                     <br/>
+                     <br/>
+                     Based on what I've encountered from other so-called "New Atheists," however, I wonder if he would even regard Unitarian Universalism as a religion.
+                     <br/>
+                     <br/>
+                     Here's the logic which a number of "New Atheists" have spelled out for me:
+                     <br/>
+                     1) Religion requires a belief in at least one god.*
+                     <br/>
+                     2) UUism does not require this belief of its members.
+                     <br/>
+                     3) Therefore, UUism does not qualify as a religion.
+                     <br/>
+                     I've even heard some of these "New Athests" snidely refer to UU congregations as social clubs and/or political debating societies masquerading as religious organizations - their words, folks, not mine.
+                     <br/>
+                     <br/>
+                     Now, to be fair, this is coming from certain individuals who say they fundamentally agree with Dawkins, not from Dawkins himself. Nor am I able to find any record online of anyone asking Dawkins this specific question. But, given the "logic" of his fan base*, I wouldn't be surprised is his answer was close to their, if not identical.
+                     <br/>
+                     <br/>
+                     * = Yes, I've pointed out to many "New Atheists" that there are religions like Buddhism and Jainism which do not require belief in a deity. Either they ignore it, or claim that "belief in something supernatural" is somehow the same as "belief in a deity" - again, forgetting that there are schools of Buddhist thought which would seem to contradict even this fairly broad description.
+                    </span>
+                    <div id="CmuJyf">
+                     <div class="ContentFooter AnswerFooter" id="__w2_XQEFyVP_content_footer">
+                      <span id="ukOqlS">
+                       <span class="meta_num">
+                        333
+                       </span>
+                       Views
+                      </span>
+                      <span class="bullet">
+                       ·
+                      </span>
+                      <a class="AnswerVoterListModalLink VoterListModalLink" href="https://www.quora.com/api/mobile_expanded_voter_list?type=answer&amp;key=1x56QCAK0vi" id="__w2_D3DTYsq_modal_link" target="_blank">
+                       View Upvotes
+                      </a>
+                      <span id="azhIDy">
+                      </span>
+                      <span id="jVFzoA">
+                      </span>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="pagedlist_item" id="pBGZwl">
+            <div class="w4_5">
+             <div class="logged_out_related_questions_container">
+              <div class="logged_out_related_questions_heading">
+               <h3>
+                Related Questions
+                <a href="https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism#MoreAnswers">
+                 More Answers Below
+                </a>
+               </h3>
+               <div class="inline_related">
+                <div class="question_related list inline" id="__w2_jdIpAJQ_related_questions_list">
+                 <ul class="list_contents">
+                  <li class="related_question">
+                   <div class="actionable" id="__w2_k6ifiDW_actionable">
+                    <div id="ehhivX">
+                     <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Richard-Dawkins-biologist-author-My-son-is-reading-The-God-Delusion-Should-I-be-worried" id="__w2_ayjO1ZQ_link" rel="noopener" target="_blank">
+                      <span class="question_text">
+                       <span class="rendered_qtext">
+                        Richard Dawkins (biologist, author): My son is reading
+                        <i>
+                         The God Delusion
+                        </i>
+                        . Should I be worried?
+                       </span>
+                      </span>
+                     </a>
+                    </div>
+                   </div>
+                  </li>
+                  <li class="related_question">
+                   <div class="actionable" id="__w2_F3ComxH_actionable">
+                    <div id="UONVHS">
+                     <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Why-is-Richard-Dawkins-so-hated-by-some-people" id="__w2_YXdKnHx_link" rel="noopener" target="_blank">
+                      <span class="question_text">
+                       <span class="rendered_qtext">
+                        Why is Richard Dawkins so hated by some people?
+                       </span>
+                      </span>
+                     </a>
+                    </div>
+                   </div>
+                  </li>
+                  <li class="related_question">
+                   <div class="actionable" id="__w2_YIY3hqz_actionable">
+                    <div id="gtyoGW">
+                     <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/What-do-you-think-are-Richard-Dawkins-3-most-important-books" id="__w2_mHYb5wu_link" rel="noopener" target="_blank">
+                      <span class="question_text">
+                       <span class="rendered_qtext">
+                        What do you think are Richard Dawkin's 3 most important books?
+                       </span>
+                      </span>
+                     </a>
+                    </div>
+                   </div>
+                  </li>
+                  <li class="related_question">
+                   <div class="actionable" id="__w2_OMk6vVb_actionable">
+                    <div id="mAEqkA">
+                     <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Would-it-be-conceivable-for-one-to-hold-that-Unitarian-Universalism-is-false-and-still-be-a-Unitarian-Universalist-in-good-standing" id="__w2_Cx3stQw_link" rel="noopener" target="_blank">
+                      <span class="question_text">
+                       <span class="rendered_qtext">
+                        Would it be conceivable for one to hold that Unitarian Universalism is false, and still be a Unitarian Universalist in good standing?
+                       </span>
+                      </span>
+                     </a>
+                    </div>
+                   </div>
+                  </li>
+                  <li class="related_question">
+                   <div class="actionable" id="__w2_XXUlfhO_actionable">
+                    <div id="KJkkcb">
+                     <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/How-does-Unitarian-Universalism-compare-to-other-Christian-sects-How-are-Unitarians-Christians" id="__w2_IvqD6tG_link" rel="noopener" target="_blank">
+                      <span class="question_text">
+                       <span class="rendered_qtext">
+                        How does Unitarian Universalism compare to other Christian sects? How are Unitarians Christians?
+                       </span>
+                      </span>
+                     </a>
+                    </div>
+                   </div>
+                  </li>
+                 </ul>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="pagedlist_item" id="aQlaPR">
+            <div class="actionable" id="__w2_QcHlRZL_actionable">
+             <div id="OeRByC">
+              <a class="anchor" name="MoreAnswers" target="_blank">
+              </a>
+              <div id="ftrJNJ">
+               <a name="answer_10752686" target="_blank">
+               </a>
+               <div class="Answer AnswerBase" id="__w2_rZrLjpx_answer">
+                <div>
+                 <div id="FOjVJh">
+                  <div class="AnswerHeader ContentHeader">
+                   <div class="photo_text_layout size_small">
+                    <div class="_layout_photo_wrapper">
+                     <div class="_layout_photo">
+                      <span id="sJrtRs">
+                       <div class="hover_menu hidden white_bg show_nub" id="__w2_BrAHTjL_menu">
+                        <div class="hover_menu_contents" id="__w2_BrAHTjL_menu_contents">
+                        </div>
+                       </div>
+                       <span class="photo_tooltip" id="__w2_BrAHTjL_link">
+                        <a href="https://www.quora.com/profile/Carolyn-Russ" id="__w2_v46318d_link" target="_blank">
+                         <img alt="Carolyn Russ" class="profile_photo_img" height="50" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/main-thumb-67077057-50-cyljuufbmpgqtmttpdhhpagfhifbxjav.jpeg" width="50"/>
+                        </a>
+                        <span id="PDAFNb">
+                        </span>
+                       </span>
+                      </span>
+                     </div>
+                    </div>
+                    <div class="_layout_text_wrapper">
+                     <div class="_layout_text">
+                      <div class="follow_button_wrapper">
+                       <div class="feed_item_answer_user">
+                        <span id="dtMOhT">
+                         <span id="iCYPak">
+                          <div class="hover_menu hidden white_bg show_nub" id="__w2_eQr4eLf_menu">
+                           <div class="hover_menu_contents" id="__w2_eQr4eLf_menu_contents">
+                           </div>
+                          </div>
+                          <span id="__w2_eQr4eLf_link">
+                           <a action_mousedown="UserLinkClickthrough" class="user" href="https://www.quora.com/profile/Carolyn-Russ" id="__w2_eQr4eLf_name_link" target="_blank">
+                            Carolyn Russ
+                           </a>
+                          </span>
+                         </span>
+                         <span class="IdentityNameCredential ActorNameCredential">
+                          , I am a member of a Christian Unitarian church
+                         </span>
+                        </span>
+                       </div>
+                       <div id="UDQqMw">
+                        <div class="CredibilityFacts pass_color_to_child_links">
+                         <span id="LZDNRN">
+                          <a action_mousedown="AnswerPermalinkClickthrough" class="answer_permalink" href="https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism/answer/Carolyn-Russ" id="__w2_GqBYwc8_link" target="_blank">
+                           Written Mar 24, 2015
+                          </a>
+                         </span>
+                        </div>
+                       </div>
+                      </div>
+                      <div id="plyCBO">
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div id="__w2_rZrLjpx_answer_content">
+                  <div id="BIjjpc">
+                   <div class="ExpandedQText ExpandedAnswer" id="__w2_EAuWvmx_expanded">
+                    <span class="rendered_qtext">
+                     The statement that UUism is dedicated to no  particular religion is incorrect. Unitarian Universalism has its roots in liberal Protestantism. Individual parishes are independent member of the UU Association. Some are Christian, some are humanist, some may observe paganism or other isms. Tolerance is a hallmark of UUism.
+                     <br/>
+                     It is true that it is a noncredal denomination. It honors a wide diversity of beliefs.
+                    </span>
+                    <div id="nWQcoQ">
+                     <div class="ContentFooter AnswerFooter" id="__w2_vx8wHav_content_footer">
+                      <span id="JTRJbO">
+                       <span class="meta_num">
+                        231
+                       </span>
+                       Views
+                      </span>
+                      <span class="bullet">
+                       ·
+                      </span>
+                      <a class="AnswerVoterListModalLink VoterListModalLink" href="https://www.quora.com/api/mobile_expanded_voter_list?type=answer&amp;key=qyHYt8VoOFH" id="__w2_VMRPUuy_modal_link" target="_blank">
+                       View Upvotes
+                      </a>
+                      <span id="VbXfPH">
+                      </span>
+                      <span id="dJsJLi">
+                      </span>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="pagedlist_item" id="CZZczD">
+            <div class="actionable" id="__w2_yGbhSpY_actionable">
+             <div id="LTNFVs">
+              <div id="TorIjf">
+               <a name="answer_26574645" target="_blank">
+               </a>
+               <div class="Answer AnswerBase" id="__w2_rwGb5Zi_answer">
+                <div>
+                 <div id="GCarPJ">
+                  <div class="AnswerHeader ContentHeader">
+                   <div class="photo_text_layout size_small">
+                    <div class="_layout_photo_wrapper">
+                     <div class="_layout_photo">
+                      <span id="vCHKts">
+                       <div class="hover_menu hidden white_bg show_nub" id="__w2_hBmTq8p_menu">
+                        <div class="hover_menu_contents" id="__w2_hBmTq8p_menu_contents">
+                        </div>
+                       </div>
+                       <span class="photo_tooltip" id="__w2_hBmTq8p_link">
+                        <a href="https://www.quora.com/profile/Chris-Peters-57" id="__w2_CbQ2675_link" target="_blank">
+                         <img alt="Chris Peters" class="profile_photo_img" height="50" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/main-thumb-121673620-50-cdklaprbctzpreucnapyjicsyqxexsup.jpeg" width="50"/>
+                        </a>
+                        <span id="lGWtHU">
+                        </span>
+                       </span>
+                      </span>
+                     </div>
+                    </div>
+                    <div class="_layout_text_wrapper">
+                     <div class="_layout_text">
+                      <div class="follow_button_wrapper">
+                       <div class="feed_item_answer_user">
+                        <span id="JFpAtS">
+                         <span id="mXyGjV">
+                          <div class="hover_menu hidden white_bg show_nub" id="__w2_pJEFyzS_menu">
+                           <div class="hover_menu_contents" id="__w2_pJEFyzS_menu_contents">
+                           </div>
+                          </div>
+                          <span id="__w2_pJEFyzS_link">
+                           <a action_mousedown="UserLinkClickthrough" class="user" href="https://www.quora.com/profile/Chris-Peters-57" id="__w2_pJEFyzS_name_link" target="_blank">
+                            Chris Peters
+                           </a>
+                          </span>
+                         </span>
+                         <span class="IdentityNameCredential ActorNameCredential">
+                          , works at Marriott International
+                         </span>
+                        </span>
+                       </div>
+                       <div id="GHprtO">
+                        <div class="CredibilityFacts pass_color_to_child_links">
+                         <span id="giFHhx">
+                          <a action_mousedown="AnswerPermalinkClickthrough" class="answer_permalink" href="https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism/answer/Chris-Peters-57" id="__w2_VNHLGr9_link" target="_blank">
+                           Written Aug 17, 2016
+                          </a>
+                         </span>
+                        </div>
+                       </div>
+                      </div>
+                      <div id="EgQDkh">
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div id="__w2_rwGb5Zi_answer_content">
+                  <div id="GaSwfE">
+                   <div class="ExpandedQText ExpandedAnswer" id="__w2_XVdLtvz_expanded">
+                    <span class="rendered_qtext">
+                     <p class="qtext_para">
+                      I attended a Dawkins event that was sponsored by a Unitarian church. He seemed, at the very least, respectful of his hosts. This may of course have been a reflection of playing nice with the folks who signed his paycheck for the event, but at the very least he’s not opposed to accepting an invitation from a Unitarian congregation.
+                     </p>
+                     <p class="qtext_para">
+                      Somehow I doubt he would have accepted a similar invitation from, say, a Southern Baptist Church or a fundamentalist Islamic or Mormon sect.
+                     </p>
+                    </span>
+                    <div id="xAINgQ">
+                     <div class="ContentFooter AnswerFooter" id="__w2_e8CVHTY_content_footer">
+                      <span id="FycsRk">
+                       <span class="meta_num">
+                        125
+                       </span>
+                       Views
+                      </span>
+                      <span id="bFFkXa">
+                      </span>
+                      <span id="QISgoC">
+                      </span>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="pagedlist_item" id="PiHXQm">
+            <div class="actionable" id="__w2_lLyKIiT_actionable">
+             <div id="TsXDkj">
+              <div id="HCFAwm">
+               <a name="answer_20437601" target="_blank">
+               </a>
+               <div class="Answer AnswerBase" id="__w2_SG7qv9n_answer">
+                <div>
+                 <div id="bqetkU">
+                  <div class="AnswerHeader ContentHeader">
+                   <div class="photo_text_layout size_small">
+                    <div class="_layout_photo_wrapper">
+                     <div class="_layout_photo">
+                      <span id="NtoNZt">
+                       <div class="hover_menu hidden white_bg show_nub" id="__w2_VeoadhU_menu">
+                        <div class="hover_menu_contents" id="__w2_VeoadhU_menu_contents">
+                        </div>
+                       </div>
+                       <span class="photo_tooltip" id="__w2_VeoadhU_link">
+                        <a href="https://www.quora.com/profile/Christopher-Sturdivant-1" id="__w2_wsNqdl4_link" target="_blank">
+                         <img alt="Christopher Sturdivant" class="profile_photo_img" height="50" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/main-thumb-54038818-50-lcrkpmekuqakgggwwpuwzmycoqbpfrrc.jpeg" width="50"/>
+                        </a>
+                        <span id="glIJJG">
+                        </span>
+                       </span>
+                      </span>
+                     </div>
+                    </div>
+                    <div class="_layout_text_wrapper">
+                     <div class="_layout_text">
+                      <div class="follow_button_wrapper">
+                       <div class="feed_item_answer_user">
+                        <span id="tyQQOz">
+                         <span id="UuylOI">
+                          <div class="hover_menu hidden white_bg show_nub" id="__w2_deTx0kO_menu">
+                           <div class="hover_menu_contents" id="__w2_deTx0kO_menu_contents">
+                           </div>
+                          </div>
+                          <span id="__w2_deTx0kO_link">
+                           <a action_mousedown="UserLinkClickthrough" class="user" href="https://www.quora.com/profile/Christopher-Sturdivant-1" id="__w2_deTx0kO_name_link" target="_blank">
+                            Christopher Sturdivant
+                           </a>
+                          </span>
+                         </span>
+                        </span>
+                       </div>
+                       <div id="EYzGBr">
+                        <div class="CredibilityFacts pass_color_to_child_links">
+                         <span id="zpMCBF">
+                          <a action_mousedown="AnswerPermalinkClickthrough" class="answer_permalink" href="https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism/answer/Christopher-Sturdivant-1" id="__w2_Xz3RfOa_link" target="_blank">
+                           Written Mar 11, 2016
+                          </a>
+                         </span>
+                        </div>
+                       </div>
+                      </div>
+                      <div id="zKZala">
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div id="__w2_SG7qv9n_answer_content">
+                  <div id="daWdBE">
+                   <div class="ExpandedQText ExpandedAnswer" id="__w2_a2fNrX0_expanded">
+                    <span class="rendered_qtext">
+                     <p class="qtext_para">
+                      In the books I have read, I do not think Dawkins has ever mentioned UU.
+                     </p>
+                     <p class="qtext_para">
+                      Dawkins in The God Delusion does make a distinction between a set of life principles like Buddhism and full blown deity worship like Islam. UU could be considered a set of life principles if you just take the UU 7 principles.
+                     </p>
+                     <p class="qtext_para">
+                      I do not believe Dawkins would tolerate acceptance of Wiccans, Islam, and Christians   without calling them out for being delusional, though. And, he makes very good points.
+                     </p>
+                     <p class="qtext_para">
+                      But UU also has their roots in interfaith. UU is not going to call your belief a delusion unless said religion includes hating gays, being racist, kid sacrifice, or mind control cult. Or not adhering to the social justice cause in vogue. Any god is okay as long as you do not push it. Some UU churches even mention god.
+                     </p>
+                     <p class="qtext_para">
+                      I don't think Dawkins would be on board with that all the way. But, he could tolerate it better than the Pentecostals.
+                     </p>
+                    </span>
+                    <div id="biEKwS">
+                     <div class="ContentFooter AnswerFooter" id="__w2_wX4D1SM_content_footer">
+                      <span id="FqbgPX">
+                       <span class="meta_num">
+                        214
+                       </span>
+                       Views
+                      </span>
+                      <span class="bullet">
+                       ·
+                      </span>
+                      <a class="AnswerVoterListModalLink VoterListModalLink" href="https://www.quora.com/api/mobile_expanded_voter_list?type=answer&amp;key=aDGt3R7nSYT" id="__w2_ifwpS4x_modal_link" target="_blank">
+                       View Upvotes
+                      </a>
+                      <span id="MIoRAC">
+                      </span>
+                      <span id="KRfjtT">
+                      </span>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="pagedlist_item" id="nrDJyN">
+            <div class="actionable" id="__w2_ZG7Wwwx_actionable">
+             <div id="YFbpdR">
+              <div id="xftbGW">
+               <a name="answer_10535899" target="_blank">
+               </a>
+               <div class="Answer AnswerBase" id="__w2_Uj0uSGO_answer">
+                <div>
+                 <div id="XWYYvJ">
+                  <div class="AnswerHeader ContentHeader">
+                   <div class="photo_text_layout size_small">
+                    <div class="_layout_photo_wrapper">
+                     <div class="_layout_photo">
+                      <span id="wkGLcT">
+                       <div class="hover_menu hidden white_bg show_nub" id="__w2_flViI27_menu">
+                        <div class="hover_menu_contents" id="__w2_flViI27_menu_contents">
+                        </div>
+                       </div>
+                       <span class="photo_tooltip" id="__w2_flViI27_link">
+                        <a href="https://www.quora.com/profile/Paul-Schultz-2" id="__w2_WAcBJEV_link" target="_blank">
+                         <img alt="Paul Schultz" class="profile_photo_img" height="50" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/main-thumb-4616198-50-pzgdCh4wYxkpZMrFgxy4x6Tply9FxMI7.jpeg" width="50"/>
+                        </a>
+                        <span id="qFtUBC">
+                        </span>
+                       </span>
+                      </span>
+                     </div>
+                    </div>
+                    <div class="_layout_text_wrapper">
+                     <div class="_layout_text">
+                      <div class="follow_button_wrapper">
+                       <div class="feed_item_answer_user">
+                        <span id="GwMKSc">
+                         <span id="dvjKKN">
+                          <div class="hover_menu hidden white_bg show_nub" id="__w2_zJ0NjhX_menu">
+                           <div class="hover_menu_contents" id="__w2_zJ0NjhX_menu_contents">
+                           </div>
+                          </div>
+                          <span id="__w2_zJ0NjhX_link">
+                           <a action_mousedown="UserLinkClickthrough" class="user" href="https://www.quora.com/profile/Paul-Schultz-2" id="__w2_zJ0NjhX_name_link" target="_blank">
+                            Paul Schultz
+                           </a>
+                          </span>
+                         </span>
+                         <span class="IdentityNameCredential ActorNameCredential">
+                          , studied at Clayton High School
+                         </span>
+                        </span>
+                       </div>
+                       <div id="KoALBs">
+                        <div class="CredibilityFacts pass_color_to_child_links">
+                         <span id="vqJuTG">
+                          <a action_mousedown="AnswerPermalinkClickthrough" class="answer_permalink" href="https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism/answer/Paul-Schultz-2" id="__w2_RihsbiU_link" target="_blank">
+                           Written Mar 15, 2015
+                          </a>
+                         </span>
+                        </div>
+                       </div>
+                      </div>
+                      <div id="rifvpf">
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                 <div id="__w2_Uj0uSGO_answer_content">
+                  <div id="lSaTMK">
+                   <div class="ExpandedQText ExpandedAnswer" id="__w2_oGy1QMr_expanded">
+                    <span class="rendered_qtext">
+                     To me other religion seems to be faith pretending it represents knowledge; UU seems to be knowledge pretending it represents faith.
+                    </span>
+                    <div id="BnfYZL">
+                     <div class="ContentFooter AnswerFooter" id="__w2_hzqlsjw_content_footer">
+                      <span id="Skdiys">
+                       <span class="meta_num">
+                        164
+                       </span>
+                       Views
+                      </span>
+                      <span class="bullet">
+                       ·
+                      </span>
+                      <a class="AnswerVoterListModalLink VoterListModalLink" href="https://www.quora.com/api/mobile_expanded_voter_list?type=answer&amp;key=YGN5M2ABXgr" id="__w2_qdbS5Cw_modal_link" target="_blank">
+                       View Upvotes
+                      </a>
+                      <span id="mncXlj">
+                      </span>
+                      <span id="IqTIea">
+                      </span>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div id="ThLiCy">
+            <div class="PagedListMoreButton" id="__w2_H5a9MnA_paged_list_more_button">
+             <div class="pager_next" id="__w2_H5a9MnA_loading" style="display: none;">
+              <div class="__wn2_loading">
+               <span class="__wn2_loading_spinner">
+               </span>
+              </div>
+             </div>
+             <div class="pager_next action_button row" id="__w2_H5a9MnA_more" style="display: none;">
+              View More Answers
+             </div>
+             <div class="pager_sentinel" id="__w2_H5a9MnA_sentinel">
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="w4_5">
+         <div class="logged_out_related_questions_container">
+          <div class="logged_out_related_questions_heading">
+           <h3>
+            Related Questions
+           </h3>
+           <div class="question_related list inline" id="__w2_jEzIa0y_related_questions_list">
+            <ul class="list_contents">
+             <li class="related_question">
+              <div class="actionable" id="__w2_r2gTuS2_actionable">
+               <div id="hakycW">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Is-Richard-Dawkins-a-good-guy-or-a-bad-guy" id="__w2_llLHLDi_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   Is Richard Dawkins a good guy or a bad guy?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_lvqdFpb_actionable">
+               <div id="sGrrAH">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Why-is-Richard-Dawkins-so-obsessed-with-religion" id="__w2_gpzv1fe_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   Why is Richard Dawkins so obsessed with religion?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_OPRgCOk_actionable">
+               <div id="aaHVPv">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/unanswered/Does-Richard-Dawkins-disregard-his-fans" id="__w2_fEO9BMX_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   Does Richard Dawkins disregard his fans?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_w4zE5QZ_actionable">
+               <div id="LSRhpK">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Is-it-me-or-does-Richard-Dawkins-look-really-pretty" id="__w2_jUQyVww_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   Is it me or does Richard Dawkins look really pretty?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_rzuUSET_actionable">
+               <div id="BtIDAj">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/What-do-you-think-about-Richard-Dawkins-recent-statements" id="__w2_bUmSDrM_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   What do you think about Richard Dawkin's recent statements?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_OwtbbWH_actionable">
+               <div id="JJWLhQ">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/What-does-Richard-Dawkins-say-in-a-nutshell" id="__w2_V05Oe5A_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   What does Richard Dawkins say in a nutshell?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_sI3A2pj_actionable">
+               <div id="stEpcs">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Is-Richard-Dawkins-going-to-hell" id="__w2_Em7KfAn_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   Is Richard Dawkins going to hell?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_Yt37wLR_actionable">
+               <div id="ciMRfz">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/unanswered/How-old-is-Richard-Dawkins" id="__w2_xUydd3E_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   How old is Richard Dawkins?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_hg2RbS7_actionable">
+               <div id="etUlkY">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Is-it-accurate-to-characterize-Unitarian-Universalism-as-Protestant-but-not-Christian" id="__w2_vAvguik_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   Is it accurate to characterize Unitarian-Universalism as "Protestant but not Christian"?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_oAXiOy2_actionable">
+               <div id="HDKAEY">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/unanswered/What-is-it-like-to-meet-Richard-Dawkins" id="__w2_gLLjAw0_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   What is it like to meet Richard Dawkins?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_kZv7Ngf_actionable">
+               <div id="JOPAzN">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Is-Richard-Dawkins-sexist" id="__w2_DcDXZxX_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   Is Richard Dawkins sexist?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_jIRYVoo_actionable">
+               <div id="YzJCHp">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/What-did-Richard-Dawkins-get-his-FRS-for" id="__w2_nYIUkIM_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   What did Richard Dawkins get his FRS for?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_GMZQbmt_actionable">
+               <div id="wQffPl">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/How-much-has-Richard-Dawkins-changed-your-life" id="__w2_qxdCNHi_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   How much has Richard Dawkins changed your life?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_sveMips_actionable">
+               <div id="TAoSnh">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/What-are-some-interesting-facts-about-Richard-Dawkins" id="__w2_G520SMx_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   What are some interesting facts about Richard Dawkins?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+             <li class="related_question">
+              <div class="actionable" id="__w2_L816758_actionable">
+               <div id="DyxpHc">
+                <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/unanswered/How-was-Richard-Dawkins-like-as-a-lecturer-or-tutor-at-Oxford" id="__w2_ohqs2MX_link" rel="noopener" target="_blank">
+                 <span class="question_text">
+                  <span class="rendered_qtext">
+                   How was Richard Dawkins like as a lecturer or tutor at Oxford?
+                  </span>
+                 </span>
+                </a>
+               </div>
+              </div>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="layout_2col_side">
+        <div id="__w2_qbVftWe_actions">
+         <div class="right_col_fixable" id="__w2_qbVftWe_right_col_fixable">
+          <div id="__w2_qbVftWe_information">
+           <div id="__w2_wUyTbqe_related_questions">
+            <div class="SimpleToggle RelatedQuestions Toggle" id="__w2_tRERWyZ__truncated">
+             <div class="SimpleToggle RelatedQuestions Toggle">
+              <div id="__w2_tRERWyZ_related_questions">
+               <div class="question_related list side_bar" id="__w2_BFsAuxY_related_questions_list" style="top: 53px; position: static; width: 314px;">
+                <h3>
+                 Related Questions
+                </h3>
+                <ul class="list_contents">
+                 <li class="related_question">
+                  <div class="actionable" id="__w2_d48bsg8_actionable">
+                   <div id="sKqVGR">
+                    <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Richard-Dawkins-biologist-author-My-son-is-reading-The-God-Delusion-Should-I-be-worried" id="__w2_n8KMHYS_link" rel="noopener" target="_blank">
+                     <span class="question_text">
+                      <span class="rendered_qtext">
+                       Richard Dawkins (biologist, author): My son is reading
+                       <i>
+                        The God Delusion
+                       </i>
+                       . Should I be worried?
+                      </span>
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="related_question">
+                  <div class="actionable" id="__w2_p83H45Y_actionable">
+                   <div id="hXWidc">
+                    <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Why-is-Richard-Dawkins-so-hated-by-some-people" id="__w2_kgatN4n_link" rel="noopener" target="_blank">
+                     <span class="question_text">
+                      <span class="rendered_qtext">
+                       Why is Richard Dawkins so hated by some people?
+                      </span>
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="related_question">
+                  <div class="actionable" id="__w2_Um5767u_actionable">
+                   <div id="rtEuND">
+                    <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/What-do-you-think-are-Richard-Dawkins-3-most-important-books" id="__w2_tzfINwT_link" rel="noopener" target="_blank">
+                     <span class="question_text">
+                      <span class="rendered_qtext">
+                       What do you think are Richard Dawkin's 3 most important books?
+                      </span>
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="related_question">
+                  <div class="actionable" id="__w2_Hh6Ue7A_actionable">
+                   <div id="wUrMJR">
+                    <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Would-it-be-conceivable-for-one-to-hold-that-Unitarian-Universalism-is-false-and-still-be-a-Unitarian-Universalist-in-good-standing" id="__w2_OsbQrzZ_link" rel="noopener" target="_blank">
+                     <span class="question_text">
+                      <span class="rendered_qtext">
+                       Would it be conceivable for one to hold that Unitarian Universalism is false, and still be a Unitarian Universalist in good standing?
+                      </span>
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="related_question">
+                  <div class="actionable" id="__w2_zS0iYGT_actionable">
+                   <div id="AuQrMC">
+                    <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/How-does-Unitarian-Universalism-compare-to-other-Christian-sects-How-are-Unitarians-Christians" id="__w2_VvpsV7L_link" rel="noopener" target="_blank">
+                     <span class="question_text">
+                      <span class="rendered_qtext">
+                       How does Unitarian Universalism compare to other Christian sects? How are Unitarians Christians?
+                      </span>
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="related_question">
+                  <div class="actionable" id="__w2_mojZQFd_actionable">
+                   <div id="DEosFN">
+                    <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Is-Richard-Dawkins-a-good-guy-or-a-bad-guy" id="__w2_P8QRcEF_link" rel="noopener" target="_blank">
+                     <span class="question_text">
+                      <span class="rendered_qtext">
+                       Is Richard Dawkins a good guy or a bad guy?
+                      </span>
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="related_question">
+                  <div class="actionable" id="__w2_ATJuqA7_actionable">
+                   <div id="lfoNSE">
+                    <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Why-is-Richard-Dawkins-so-obsessed-with-religion" id="__w2_QglwoJ1_link" rel="noopener" target="_blank">
+                     <span class="question_text">
+                      <span class="rendered_qtext">
+                       Why is Richard Dawkins so obsessed with religion?
+                      </span>
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="related_question">
+                  <div class="actionable" id="__w2_VyQBfUA_actionable">
+                   <div id="WrjZSs">
+                    <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/unanswered/Does-Richard-Dawkins-disregard-his-fans" id="__w2_G3qs9k4_link" rel="noopener" target="_blank">
+                     <span class="question_text">
+                      <span class="rendered_qtext">
+                       Does Richard Dawkins disregard his fans?
+                      </span>
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="related_question">
+                  <div class="actionable" id="__w2_tAXmqwo_actionable">
+                   <div id="zxoMiL">
+                    <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/Is-it-me-or-does-Richard-Dawkins-look-really-pretty" id="__w2_j49nou6_link" rel="noopener" target="_blank">
+                     <span class="question_text">
+                      <span class="rendered_qtext">
+                       Is it me or does Richard Dawkins look really pretty?
+                      </span>
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                 </li>
+                 <li class="related_question">
+                  <div class="actionable" id="__w2_US2C5KC_actionable">
+                   <div id="MxORgX">
+                    <a action_mousedown="QuestionLinkClickthrough" class="question_link" href="https://www.quora.com/What-do-you-think-about-Richard-Dawkins-recent-statements" id="__w2_J4sBO75_link" rel="noopener" target="_blank">
+                     <span class="question_text">
+                      <span class="rendered_qtext">
+                       What do you think about Richard Dawkin's recent statements?
+                      </span>
+                     </span>
+                    </a>
+                   </div>
+                  </div>
+                 </li>
+                </ul>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="SimpleToggle RelatedQuestions Toggle hidden" id="__w2_tRERWyZ__expanded">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="JJrRmw">
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="SimpleToggle LoggedOutContentPageFeed Toggle ContentPageFeed" id="__w2_xwQLVfl__truncated">
+   <div class="SimpleToggle LoggedOutContentPageFeed Toggle ContentPageFeed" id="__w2_xwQLVfl_wrapper">
+    <div class="ContentWrapper first_content_page_feed">
+     <a class="title" href="https://www.quora.com/" rel="noopener" target="_blank">
+      Top Stories
+     </a>
+     <span class="hidden" id="__w2_xwQLVfl_loadingshow">
+      <div class="LoadingDots regular">
+       <div class="dot first">
+       </div>
+       <div class="dot second">
+       </div>
+       <div class="dot third">
+       </div>
+      </div>
+     </span>
+    </div>
+   </div>
+  </div>
+  <div class="SimpleToggle LoggedOutContentPageFeed Toggle ContentPageFeed hidden" id="__w2_xwQLVfl__expanded">
+  </div>
+  <div class="LargeFooter">
+   <div class="footer_alphabet">
+    <div class="alphabet_item">
+     <a href="https://www.quora.com/sitemap">
+      Sitemap
+     </a>
+    </div>
+    <div class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/0">
+      #
+     </a>
+    </div>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/a">
+      A
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/b">
+      B
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/c">
+      C
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/d">
+      D
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/e">
+      E
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/f">
+      F
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/g">
+      G
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/h">
+      H
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/i">
+      I
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/j">
+      J
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/k">
+      K
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/l">
+      L
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/m">
+      M
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/n">
+      N
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/o">
+      O
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/p">
+      P
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/q">
+      Q
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/r">
+      R
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/s">
+      S
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/t">
+      T
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/u">
+      U
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/v">
+      V
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/w">
+      W
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/x">
+      X
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/y">
+      Y
+     </a>
+    </span>
+    <span class="alphabet_item">
+     <a href="https://www.quora.com/sitemap/alphabetical_topics/z">
+      Z
+     </a>
+    </span>
+   </div>
+   <div class="footer_static_items">
+    <a href="https://www.quora.com/about">
+     About
+    </a>
+    -
+    <a href="https://www.quora.com/careers">
+     Careers
+    </a>
+    -
+    <a href="https://www.quora.com/about/privacy">
+     Privacy
+    </a>
+    -
+    <a href="https://www.quora.com/about/tos">
+     Terms
+    </a>
+    -
+    <a href="https://www.quora.com/contact">
+     Contact
+    </a>
+   </div>
+  </div>
+  <div id="JANnTP">
+  </div>
+  <div id="__w2_FIPngTy_signup_wall_wrapper">
+  </div>
+  <div class="__live_spinner hidden" id="__w2_txTBSCQ_loading">
+   <div class="__live_spinner_indicator" id="__w2_txTBSCQ_spinner">
+   </div>
+  </div>
+  <div class="PMsgContainer" id="__w2_LdBKHv0_pmsg_container">
+  </div>
+  <div id="xToWGJ">
+  </div>
+  <script type="text/javascript">
+   "serviceWorker"in window.navigator&&window.navigator.serviceWorker.getRegistrations().then(function(r){for(var e=0;e<r.length;++e)r[e].unregister()});
+  </script>
+  <script type="text/javascript">
+   require.whenReady("shared/main-loaded", function() {require.whenReady(["tchannel_up"], function() {
+
+            require("tchannel_up").start(0, "main-w-dep3000-222427091097430322", "11132634049741805664", "chan33-8888", "quora.com", "");
+        
+});});
+  </script>
+  <script type="text/javascript">
+   document.title="Does Richard Dawkins like Unitarian Universalism? - Quora";
+  </script>
+  <script type="text/javascript">
+   require.whenReady("shared/main-loaded", function() {require("shared/core/component").beforeOnLoad();
+            var coreComponent = require('shared/core/component');
+            var newComponent = coreComponent.newComponent;
+            coreComponent.addComponentMetadata({parents: {"fJlDee1": "YieWbHn", "OwtbbWH": "jEzIa0y", "UyXkh3F": "*ROOT*", "tAXmqwo": "BFsAuxY", "SG7qv9n": "BZELIq1", "fEO9BMX": "OPRgCOk", "ohr8wF6": "vVmDqOt", "kmVza5c": "XQEFyVP", "Vyjuhil": "vVmDqOt", "dEOt2Pa": "e8CVHTY", "L4TYfwC": "dRPCYb7", "l51vvid": "CbQ2675", "hghVXkr": "BHtKyej", "x1wqGpj": "vVmDqOt", "wUyTbqe": "qbVftWe", "lDsLBgo": "VnS7YVx", "wsNqdl4": "VeoadhU", "Ff9rWnb": "vVmDqOt", "BHtKyej": "O5wfIMs", "ohqs2MX": "L816758", "US2C5KC": "BFsAuxY", "yvddAfk": "vx8wHav", "tKHNQXV": "rZrLjpx", "d48bsg8": "BFsAuxY", "yGbhSpY": "U6oDYzq", "ps8XXqE": "XQEFyVP", "FkpzTsR": "qbVftWe", "VNHLGr9": "FehKsJB", "cpvWbgD": "qbVftWe", "Z3AVMRK": "ZG7Wwwx", "VMRPUuy": "vx8wHav", "oGy1QMr": "Uj0uSGO", "n8KMHYS": "d48bsg8", "jUQyVww": "w4zE5QZ", "frK5yuh": "qbVftWe", "fQDq7Gk": "dRPCYb7", "p89NhDy": "wX4D1SM", "P8QRcEF": "mojZQFd", "OMk6vVb": "jdIpAJQ", "w4zE5QZ": "jEzIa0y", "qbVftWe": "B1HZ0lY", "jEzIa0y": "yo3kIYB", "QoEaoFq": "FkpzTsR", "FNyZg8m": "B1HZ0lY", "e8CVHTY": "XVdLtvz", "BrAHTjL": "tKHNQXV", "QglwoJ1": "ATJuqA7", "IMDjFNV": "lR8fjxk", "U9g6wyu": "UzlKsua", "xKmR6h8": "znuwJdr", "lLyKIiT": "KK94TPT", "oAXiOy2": "jEzIa0y", "mD2Q9EJ": "lR8fjxk", "ifwpS4x": "wX4D1SM", "gxhFED1": "znuwJdr", "S9tSpxe": "*ROOT*", "dGEjuaj": "vVmDqOt", "J4sBO75": "US2C5KC", "H5a9MnA": "znuwJdr", "VYDTehq": "e8CVHTY", "O5wfIMs": "HMDoASf", "L816758": "jEzIa0y", "IKrY8LQ": "fQDq7Gk", "yPt6paW": "RRibzKz", "NpiUoJw": "e8CVHTY", "sI3A2pj": "jEzIa0y", "dRPCYb7": "*ROOT*", "fA0se3B": "*ROOT*", "gpzv1fe": "lvqdFpb", "Um5767u": "BFsAuxY", "faSw1KT": "gxhFED1", "O59jdR7": "hzqlsjw", "aDGnKzp": "e8CVHTY", "ziWu4He": "FkpzTsR", "WCFHsKF": "WAcBJEV", "jUxYspL": "LsiJGnK", "DcDXZxX": "kZv7Ngf", "aZD4ibu": "IKrY8LQ", "XVdLtvz": "rwGb5Zi", "FIPngTy": "*ROOT*", "ISRHx7o": "rGNEtac", "nYIUkIM": "jIRYVoo", "F3ComxH": "jdIpAJQ", "gfV2s3d": "nY3iFfJ", "UztV3d9": "znuwJdr", "yo3kIYB": "FkpzTsR", "o2WDEQX": "vVmDqOt", "GyYvycp": "fQDq7Gk", "zxyOBUD": "vVmDqOt", "UF8zzha": "UyXkh3F", "OPRgCOk": "jEzIa0y", "LsiJGnK": "Uj0uSGO", "mHYb5wu": "YIY3hqz", "kZv7Ngf": "jEzIa0y", "WAcBJEV": "flViI27", "hzqlsjw": "oGy1QMr", "gcVbttt": "B1HZ0lY", "zipwkgg": "dRPCYb7", "QcHlRZL": "Mcqm1mM", "WKqOKId": "hzqlsjw", "omLqzDK": "tKHNQXV", "L87sloL": "*ROOT*", "UzlKsua": "rwGb5Zi", "Hh6Ue7A": "BFsAuxY", "B1HZ0lY": "dRPCYb7", "DpQ06e8": "LsiJGnK", "deTx0kO": "mZWBhTC", "mZWBhTC": "lR8fjxk", "dJjAq1y": "hzqlsjw", "cYNIJbS": "wsNqdl4", "lR8fjxk": "SG7qv9n", "vLBktKI": "RCCUg1d", "wWke8gL": "vVmDqOt", "Xz3RfOa": "ZeQVmpi", "j49nou6": "tAXmqwo", "lvqdFpb": "jEzIa0y", "YIY3hqz": "jdIpAJQ", "qWM6iXP": "UzlKsua", "YieWbHn": "tKHNQXV", "IqxOKEO": "lDsLBgo", "YcN5BRn": "B1HZ0lY", "vx8wHav": "EAuWvmx", "G520SMx": "sveMips", "Qt2mEmZ": "wX4D1SM", "f4A7vE0": "FkpzTsR", "YH0FDh2": "pC5yKxo", "rGNEtac": "YH0FDh2", "YXdKnHx": "F3ComxH", "qxdCNHi": "GMZQbmt", "R8oRmgW": "RihsbiU", "zJ0NjhX": "DpQ06e8", "pJEFyzS": "qWM6iXP", "llLHLDi": "r2gTuS2", "jdIpAJQ": "faSw1KT", "THMOvQU": "GqBYwc8", "flViI27": "LsiJGnK", "txTBSCQ": "*ROOT*", "gLLjAw0": "oAXiOy2", "mLuunIc": "xwQLVfl", "HMDoASf": "RCCUg1d", "tRERWyZ": "wUyTbqe", "fAd8Tc6": "xKmR6h8", "znuwJdr": "ziWu4He", "rZrLjpx": "yWVahrk", "n2MgJQz": "rP0IVK8", "jIRYVoo": "jEzIa0y", "OsbQrzZ": "Hh6Ue7A", "yGopiql": "QoEaoFq", "hg2RbS7": "jEzIa0y", "rwGb5Zi": "nMK0gfi", "R7AxLWe": "RLOjoK5", "rzuUSET": "jEzIa0y", "DP1ijmV": "hnfHU0l", "k6ifiDW": "jdIpAJQ", "vAvguik": "hg2RbS7", "MAgkXUZ": "vx8wHav", "a2fNrX0": "SG7qv9n", "Y5pf08P": "*ROOT*", "Uis2fkc": "hghVXkr", "vVmDqOt": "FkpzTsR", "rDDiior": "*ROOT*", "VnS7YVx": "RCCUg1d", "zNhFJTf": "f4A7vE0", "RbCoRxh": "*ROOT*", "VNFOsL5": "XQEFyVP", "rP0IVK8": "ISRHx7o", "UIkepNi": "vVmDqOt", "MLTtqbQ": "vVmDqOt", "pOcvSFU": "VNHLGr9", "QJj4kZ1": "vx8wHav", "SyGGPhn": "XQEFyVP", "S6nNAjm": "hzqlsjw", "ZeQVmpi": "mD2Q9EJ", "D3DTYsq": "XQEFyVP", "U6oDYzq": "znuwJdr", "vltFGhZ": "*ROOT*", "BFsAuxY": "tRERWyZ", "bxTJtOk": "dRPCYb7", "RLOjoK5": "LsiJGnK", "wX4D1SM": "a2fNrX0", "hnfHU0l": "O5wfIMs", "NwdXBKH": "Uis2fkc", "qEKSTqF": "vVmDqOt", "qdbS5Cw": "hzqlsjw", "EAuWvmx": "rZrLjpx", "Em7KfAn": "sI3A2pj", "VeoadhU": "lR8fjxk", "VvpsV7L": "zS0iYGT", "JOvxDK5": "UzlKsua", "GMZQbmt": "jEzIa0y", "KK94TPT": "znuwJdr", "sveMips": "jEzIa0y", "ovmnKb0": "DP1ijmV", "RihsbiU": "R7AxLWe", "V05Oe5A": "OwtbbWH", "kgatN4n": "p83H45Y", "tkrkzbJ": "wX4D1SM", "tkNQaIt": "*ROOT*", "mUuD9Q9": "*ROOT*", "GqBYwc8": "fJlDee1", "gvR7n6P": "ZRWvqmv", "cu2qKkj": "e8CVHTY", "CbQ2675": "hBmTq8p", "pC5yKxo": "fAd8Tc6", "xwQLVfl": "dRPCYb7", "mojZQFd": "BFsAuxY", "r2gTuS2": "jEzIa0y", "RCCUg1d": "qbVftWe", "xUydd3E": "Yt37wLR", "VyQBfUA": "BFsAuxY", "Mcqm1mM": "znuwJdr", "tzfINwT": "Um5767u", "pSJkA58": "hzqlsjw", "v46318d": "BrAHTjL", "CcNiIdS": "vx8wHav", "BZELIq1": "lLyKIiT", "LdBKHv0": "*ROOT*", "SJjEExa": "vVmDqOt", "FehKsJB": "U9g6wyu", "RRibzKz": "rGNEtac", "Uj0uSGO": "Z3AVMRK", "ATJuqA7": "BFsAuxY", "IMwhIjB": "v46318d", "bUmSDrM": "rzuUSET", "xSUJmLf": "XQEFyVP", "yWVahrk": "QcHlRZL", "npxCbiL": "*ROOT*", "p83H45Y": "BFsAuxY", "G3qs9k4": "VyQBfUA", "CKOyXsF": "wX4D1SM", "oQN7gLE": "vx8wHav", "H2Q6aEG": "wX4D1SM", "nY3iFfJ": "rGNEtac", "DnmTYae": "ovmnKb0", "Yt37wLR": "jEzIa0y", "ZG7Wwwx": "UztV3d9", "XXUlfhO": "jdIpAJQ", "eQr4eLf": "baPGamj", "Cx3stQw": "OMk6vVb", "hBmTq8p": "UzlKsua", "leVglye": "vVmDqOt", "IvqD6tG": "XXUlfhO", "ot8VSK3": "Xz3RfOa", "zS0iYGT": "BFsAuxY", "XQEFyVP": "U5tM91L", "ayjO1ZQ": "k6ifiDW", "nMK0gfi": "yGbhSpY", "U5tM91L": "YH0FDh2", "ZRWvqmv": "yPt6paW", "mqT4ywk": "rGNEtac", "baPGamj": "tKHNQXV"}, children: {"dRPCYb7": {"content": "B1HZ0lY"}, "znuwJdr": {"more_button": "H5a9MnA"}, "fQDq7Gk": {"lookup_bar": "IKrY8LQ"}}, domids: {"fJlDee1": "UDQqMw", "UyXkh3F": "yNDEDg", "SG7qv9n": "HCFAwm", "fEO9BMX": "aaHVPv", "kmVza5c": "ukOqlS", "dEOt2Pa": "FycsRk", "l51vvid": "lGWtHU", "hghVXkr": "YYiWTL", "wUyTbqe": "dNncpu", "f4A7vE0": "XKsVqw", "Ff9rWnb": "pABYBD", "BHtKyej": "Urpuxf", "ohqs2MX": "DyxpHc", "yvddAfk": "JTRJbO", "tKHNQXV": "FOjVJh", "yGbhSpY": "qKEhsy", "qxdCNHi": "wQffPl", "FkpzTsR": "dyLOTP", "VNHLGr9": "giFHhx", "oGy1QMr": "lSaTMK", "jUQyVww": "LSRhpK", "frK5yuh": "JJrRmw", "fQDq7Gk": "XrzNFO", "p89NhDy": "MIoRAC", "P8QRcEF": "DEosFN", "xUydd3E": "ciMRfz", "qbVftWe": "eEvxJn", "jEzIa0y": "IKbMNW", "QoEaoFq": "SnRbeC", "Cx3stQw": "mAEqkA", "e8CVHTY": "xAINgQ", "BrAHTjL": "sJrtRs", "QglwoJ1": "lfoNSE", "IMDjFNV": "zKZala", "ZG7Wwwx": "yoxHMM", "gxhFED1": "pBGZwl", "rGNEtac": "pdlEnk", "J4sBO75": "MxORgX", "H5a9MnA": "ThLiCy", "VYDTehq": "QISgoC", "O5wfIMs": "zMajmp", "IKrY8LQ": "CIyriw", "yPt6paW": "lPwKHp", "n2MgJQz": "ILzLDw", "gpzv1fe": "sGrrAH", "faSw1KT": "jppLdZ", "O59jdR7": "mncXlj", "DpQ06e8": "GwMKSc", "jUxYspL": "rifvpf", "DcDXZxX": "JOPAzN", "XVdLtvz": "GaSwfE", "ISRHx7o": "xNnedz", "nYIUkIM": "YzJCHp", "dGEjuaj": "lgZtFn", "gfV2s3d": "kHINCM", "UztV3d9": "nrDJyN", "yo3kIYB": "MsbbkH", "o2WDEQX": "JYBNjw", "BFsAuxY": "RLwNFu", "zxyOBUD": "UUqrHx", "n8KMHYS": "sKqVGR", "LsiJGnK": "XWYYvJ", "mHYb5wu": "gtyoGW", "hzqlsjw": "BnfYZL", "QcHlRZL": "PIhOOc", "omLqzDK": "plyCBO", "UzlKsua": "GCarPJ", "G520SMx": "TAoSnh", "deTx0kO": "UuylOI", "mZWBhTC": "tyQQOz", "cu2qKkj": "bFFkXa", "dJjAq1y": "Skdiys", "cYNIJbS": "glIJJG", "lR8fjxk": "bqetkU", "vLBktKI": "zucvUy", "wWke8gL": "EycCJV", "Xz3RfOa": "zpMCBF", "j49nou6": "zxoMiL", "G3qs9k4": "WrjZSs", "IqxOKEO": "pqgUpB", "leVglye": "iwFTce", "gLLjAw0": "HDKAEY", "Vyjuhil": "qyWaZl", "pJEFyzS": "mXyGjV", "llLHLDi": "hakycW", "jdIpAJQ": "ffYhTK", "flViI27": "wkGLcT", "DP1ijmV": "URhyxo", "HMDoASf": "xqfIVK", "tRERWyZ": "ADJoEG", "fAd8Tc6": "PsZYNj", "rZrLjpx": "ftrJNJ", "yGopiql": "gNqtsW", "rwGb5Zi": "TorIjf", "R7AxLWe": "KoALBs", "nY3iFfJ": "iDWkJn", "RihsbiU": "vqJuTG", "vAvguik": "etUlkY", "MAgkXUZ": "VbXfPH", "a2fNrX0": "daWdBE", "Y5pf08P": "xToWGJ", "Uis2fkc": "PTEMLV", "vVmDqOt": "wvolFa", "rDDiior": "spZngn", "OsbQrzZ": "wUrMJR", "zNhFJTf": "ONQgmT", "UIkepNi": "azmDED", "MLTtqbQ": "aFRqjN", "QJj4kZ1": "dJsJLi", "IvqD6tG": "KJkkcb", "ZeQVmpi": "EYzGBr", "U6oDYzq": "CZZczD", "vltFGhZ": "JANnTP", "WCFHsKF": "qFtUBC", "wX4D1SM": "biEKwS", "hnfHU0l": "mVSlOI", "EAuWvmx": "BIjjpc", "VvpsV7L": "AuQrMC", "JOvxDK5": "EgQDkh", "KK94TPT": "PiHXQm", "YXdKnHx": "UONVHS", "ovmnKb0": "vtrTVt", "zJ0NjhX": "dvjKKN", "V05Oe5A": "JJWLhQ", "kgatN4n": "hXWidc", "tkrkzbJ": "KRfjtT", "tzfINwT": "rtEuND", "GqBYwc8": "LZDNRN", "ZRWvqmv": "cggtdM", "pC5yKxo": "nsDUGG", "xwQLVfl": "nKIIph", "RCCUg1d": "SdNAop", "Mcqm1mM": "aQlaPR", "xKmR6h8": "DKLUEO", "S6nNAjm": "IqTIea", "vx8wHav": "nWQcoQ", "BZELIq1": "TsXDkj", "SJjEExa": "tkJdjS", "FehKsJB": "GHprtO", "Uj0uSGO": "xftbGW", "IMwhIjB": "PDAFNb", "bUmSDrM": "BtIDAj", "xSUJmLf": "jVFzoA", "yWVahrk": "OeRByC", "VnS7YVx": "UqcYfm", "YH0FDh2": "RoQRqK", "qWM6iXP": "JFpAtS", "H2Q6aEG": "FqbgPX", "cpvWbgD": "GCoGbw", "znuwJdr": "PXjZCw", "SyGGPhn": "azhIDy", "hBmTq8p": "vCHKts", "VeoadhU": "NtoNZt", "eQr4eLf": "iCYPak", "Z3AVMRK": "YFbpdR", "Em7KfAn": "stEpcs", "XQEFyVP": "CmuJyf", "ayjO1ZQ": "ehhivX", "nMK0gfi": "LTNFVs", "U5tM91L": "RaQJtk", "lLyKIiT": "HWWbsr", "mqT4ywk": "VtWovu", "baPGamj": "dtMOhT"}, hmacs: {"fJlDee1": "g4xzBRN/M+N1Ud", "OwtbbWH": "zdhW+uWlLCvjDX", "UyXkh3F": "1on7AgBqko/PdP", "tAXmqwo": "zdhW+uWlLCvjDX", "SG7qv9n": "a414QTweCXacqn", "fEO9BMX": "Q5DU4FheKYIIfH", "ohr8wF6": "GNvNbnR2SYw6pI", "kmVza5c": "XcRLIP2XcJb6In", "Vyjuhil": "3Bo2eqVyZREtFA", "dEOt2Pa": "XcRLIP2XcJb6In", "L4TYfwC": "B9kKH30vAkbmKk", "l51vvid": "vHS0WoH5SmwYmQ", "hghVXkr": "FFCe9FZXgmZzvm", "x1wqGpj": "y5eyPnSO/7o2G4", "wUyTbqe": "fcOSlj8cZ52rRX", "lDsLBgo": "ABZfzrDL8vHVvA", "wsNqdl4": "yr748V7zaT+cMO", "Ff9rWnb": "Jm9DFyolok3wOf", "BHtKyej": "mBvLJJlhS9t86l", "ohqs2MX": "Q5DU4FheKYIIfH", "US2C5KC": "zdhW+uWlLCvjDX", "yvddAfk": "XcRLIP2XcJb6In", "tKHNQXV": "q2yuBL0iV/ZqFO", "d48bsg8": "zdhW+uWlLCvjDX", "yGbhSpY": "3Mcr12/DelJ5/d", "ps8XXqE": "7NpLYGj4IRSU86", "FkpzTsR": "uN8WDh5B2aF949", "VNHLGr9": "/yfYu+Da5pGDIZ", "cpvWbgD": "B12ssjK1e8cku1", "Z3AVMRK": "QmptCxbbZG7bDy", "VMRPUuy": "boDT8H8PgPms+j", "oGy1QMr": "dh/F4KolQHPMP7", "n8KMHYS": "Q5DU4FheKYIIfH", "jUQyVww": "Q5DU4FheKYIIfH", "frK5yuh": "nLVz0HjqG6qkSq", "fQDq7Gk": "aD0i31XLd8mks2", "p89NhDy": "JTvtSXULcq04w6", "P8QRcEF": "Q5DU4FheKYIIfH", "OMk6vVb": "zdhW+uWlLCvjDX", "w4zE5QZ": "zdhW+uWlLCvjDX", "qbVftWe": "0cgS9AjvYYU7T/", "jEzIa0y": "Sj/25PzI0SUovs", "QoEaoFq": "M7472vScnT6D4K", "FNyZg8m": "dZUKqgrmjfibWg", "e8CVHTY": "PWBNuzUvleM+Ne", "BrAHTjL": "CF4WswIK+LL+Ua", "QglwoJ1": "Q5DU4FheKYIIfH", "IMDjFNV": "eBZOVn6m9Wj2gf", "U9g6wyu": "y081oVX3k3RLLS", "xKmR6h8": "VTNM8FOisQKRkl", "lLyKIiT": "3Mcr12/DelJ5/d", "oAXiOy2": "zdhW+uWlLCvjDX", "mD2Q9EJ": "y081oVX3k3RLLS", "ifwpS4x": "boDT8H8PgPms+j", "gxhFED1": "vU5ERypKnQ7qfr", "S9tSpxe": "HzvmGjYQIB+9RT", "dGEjuaj": "mLotePatBPT+eE", "J4sBO75": "Q5DU4FheKYIIfH", "H5a9MnA": "/TW7WZFZNft72w", "VYDTehq": "FC/jHnx/yzEkpN", "O5wfIMs": "UylPNrkrE2pj93", "L816758": "zdhW+uWlLCvjDX", "IKrY8LQ": "af2epjWO7ZY1nI", "yPt6paW": "g4xzBRN/M+N1Ud", "NpiUoJw": "7NpLYGj4IRSU86", "sI3A2pj": "zdhW+uWlLCvjDX", "dRPCYb7": "K0N05JGUz/jylI", "fA0se3B": "P59/ftoRCyUqpi", "gpzv1fe": "Q5DU4FheKYIIfH", "Um5767u": "zdhW+uWlLCvjDX", "faSw1KT": "ate+JjecirOloA", "O59jdR7": "JTvtSXULcq04w6", "aDGnKzp": "v/sbdiAGeWDv0k", "ziWu4He": "JmnHIw7fbKYB10", "WCFHsKF": "vHS0WoH5SmwYmQ", "jUxYspL": "eBZOVn6m9Wj2gf", "DcDXZxX": "Q5DU4FheKYIIfH", "aZD4ibu": "ymWNAWNIMdOKzz", "XVdLtvz": "dh/F4KolQHPMP7", "FIPngTy": "czkx6+y6npPZ+h", "ISRHx7o": "CF4WswIK+LL+Ua", "nYIUkIM": "Q5DU4FheKYIIfH", "F3ComxH": "zdhW+uWlLCvjDX", "gfV2s3d": "udZeaNz4nsP+Df", "UztV3d9": "VTNM8FOisQKRkl", "yo3kIYB": "ate+JjecirOloA", "o2WDEQX": "XkRV3gq4ZuTh9i", "GyYvycp": "YdnwZwafteKOeF", "zxyOBUD": "sVV7ghJpF7pn4b", "UF8zzha": "8sPHrRXxQOxkic", "OPRgCOk": "zdhW+uWlLCvjDX", "LsiJGnK": "q2yuBL0iV/ZqFO", "mHYb5wu": "Q5DU4FheKYIIfH", "kZv7Ngf": "zdhW+uWlLCvjDX", "WAcBJEV": "yr748V7zaT+cMO", "hzqlsjw": "PWBNuzUvleM+Ne", "gcVbttt": "S4wcGVzUxxHge1", "zipwkgg": "DAalTWsvfBzxrO", "QcHlRZL": "3Mcr12/DelJ5/d", "WKqOKId": "7NpLYGj4IRSU86", "omLqzDK": "eBZOVn6m9Wj2gf", "L87sloL": "PZehp13DRwulzr", "UzlKsua": "q2yuBL0iV/ZqFO", "Hh6Ue7A": "zdhW+uWlLCvjDX", "B1HZ0lY": "EvauR91jUnaDqk", "DpQ06e8": "2nGZ86L+cGEn53", "deTx0kO": "udZeaNz4nsP+Df", "mZWBhTC": "2nGZ86L+cGEn53", "dJjAq1y": "XcRLIP2XcJb6In", "cYNIJbS": "vHS0WoH5SmwYmQ", "lR8fjxk": "q2yuBL0iV/ZqFO", "vLBktKI": "NEel8/G7TMh4Zo", "wWke8gL": "1XcvbpbAKl4L9G", "Xz3RfOa": "/yfYu+Da5pGDIZ", "j49nou6": "Q5DU4FheKYIIfH", "lvqdFpb": "zdhW+uWlLCvjDX", "YIY3hqz": "zdhW+uWlLCvjDX", "qWM6iXP": "2nGZ86L+cGEn53", "YieWbHn": "y081oVX3k3RLLS", "IqxOKEO": "AyS5v4JhQVEFah", "YcN5BRn": "fTqTKBA8YOwpQv", "vx8wHav": "PWBNuzUvleM+Ne", "G520SMx": "Q5DU4FheKYIIfH", "Qt2mEmZ": "7NpLYGj4IRSU86", "f4A7vE0": "BxheriYYELjLOo", "YH0FDh2": "a414QTweCXacqn", "rGNEtac": "q2yuBL0iV/ZqFO", "YXdKnHx": "Q5DU4FheKYIIfH", "qxdCNHi": "Q5DU4FheKYIIfH", "R8oRmgW": "5pDWD/q+wbL9s8", "zJ0NjhX": "udZeaNz4nsP+Df", "pJEFyzS": "udZeaNz4nsP+Df", "llLHLDi": "Q5DU4FheKYIIfH", "jdIpAJQ": "Sj/25PzI0SUovs", "THMOvQU": "5pDWD/q+wbL9s8", "flViI27": "CF4WswIK+LL+Ua", "txTBSCQ": "1UTkDR9nG4n2oK", "gLLjAw0": "Q5DU4FheKYIIfH", "mLuunIc": "ymWNAWNIMdOKzz", "HMDoASf": "QQM5uOUQs8WhsR", "tRERWyZ": "68m7oEAL3itPPl", "fAd8Tc6": "3Mcr12/DelJ5/d", "znuwJdr": "2S24bo9orExmnI", "rZrLjpx": "a414QTweCXacqn", "n2MgJQz": "vHS0WoH5SmwYmQ", "jIRYVoo": "zdhW+uWlLCvjDX", "OsbQrzZ": "Q5DU4FheKYIIfH", "yGopiql": "ZQBHmYF8pDytsu", "hg2RbS7": "zdhW+uWlLCvjDX", "rwGb5Zi": "a414QTweCXacqn", "R7AxLWe": "g4xzBRN/M+N1Ud", "rzuUSET": "zdhW+uWlLCvjDX", "DP1ijmV": "FFCe9FZXgmZzvm", "k6ifiDW": "zdhW+uWlLCvjDX", "vAvguik": "Q5DU4FheKYIIfH", "MAgkXUZ": "JTvtSXULcq04w6", "a2fNrX0": "dh/F4KolQHPMP7", "Y5pf08P": "E+mVuK2XdQ+u68", "Uis2fkc": "aNlloNV91jVqD7", "vVmDqOt": "s/W927WcMedX3x", "rDDiior": "RBbDsiUbk40vfy", "VnS7YVx": "NfaiNgy9tWJiQF", "zNhFJTf": "/NI/pgoUJ0Qv3w", "RbCoRxh": "1j77S+X28y8XLC", "VNFOsL5": "v/sbdiAGeWDv0k", "rP0IVK8": "yr748V7zaT+cMO", "UIkepNi": "22Bsx+48DTiPQP", "MLTtqbQ": "qRLS2VTS+WwcBu", "pOcvSFU": "5pDWD/q+wbL9s8", "QJj4kZ1": "FC/jHnx/yzEkpN", "SyGGPhn": "JTvtSXULcq04w6", "S6nNAjm": "FC/jHnx/yzEkpN", "ZeQVmpi": "g4xzBRN/M+N1Ud", "D3DTYsq": "boDT8H8PgPms+j", "U6oDYzq": "VTNM8FOisQKRkl", "vltFGhZ": "H4N6YL2RRfUEoi", "BFsAuxY": "Sj/25PzI0SUovs", "bxTJtOk": "yIhehupLwXy2ZT", "RLOjoK5": "y081oVX3k3RLLS", "wX4D1SM": "PWBNuzUvleM+Ne", "hnfHU0l": "mBvLJJlhS9t86l", "NwdXBKH": "qwSCqDY1h0l1To", "qEKSTqF": "mfQVT4RPS1AAnI", "qdbS5Cw": "boDT8H8PgPms+j", "EAuWvmx": "dh/F4KolQHPMP7", "Em7KfAn": "Q5DU4FheKYIIfH", "VeoadhU": "CF4WswIK+LL+Ua", "VvpsV7L": "Q5DU4FheKYIIfH", "JOvxDK5": "eBZOVn6m9Wj2gf", "GMZQbmt": "zdhW+uWlLCvjDX", "KK94TPT": "VTNM8FOisQKRkl", "sveMips": "zdhW+uWlLCvjDX", "ovmnKb0": "aNlloNV91jVqD7", "RihsbiU": "/yfYu+Da5pGDIZ", "V05Oe5A": "Q5DU4FheKYIIfH", "kgatN4n": "Q5DU4FheKYIIfH", "tkrkzbJ": "FC/jHnx/yzEkpN", "tkNQaIt": "wzXjEjB7bkuwCN", "mUuD9Q9": "0kPJrVVLbS2MU1", "GqBYwc8": "/yfYu+Da5pGDIZ", "gvR7n6P": "5pDWD/q+wbL9s8", "cu2qKkj": "JTvtSXULcq04w6", "CbQ2675": "yr748V7zaT+cMO", "pC5yKxo": "QmptCxbbZG7bDy", "xwQLVfl": "81MJjYJpCPN2tR", "mojZQFd": "zdhW+uWlLCvjDX", "r2gTuS2": "zdhW+uWlLCvjDX", "RCCUg1d": "quiuYiRGrgNQL1", "xUydd3E": "Q5DU4FheKYIIfH", "VyQBfUA": "zdhW+uWlLCvjDX", "Mcqm1mM": "VTNM8FOisQKRkl", "tzfINwT": "Q5DU4FheKYIIfH", "pSJkA58": "v/sbdiAGeWDv0k", "v46318d": "yr748V7zaT+cMO", "CcNiIdS": "7NpLYGj4IRSU86", "BZELIq1": "QmptCxbbZG7bDy", "LdBKHv0": "YHfNweTms8ZWw8", "SJjEExa": "azcy8t2uqfuvwu", "FehKsJB": "g4xzBRN/M+N1Ud", "RRibzKz": "y081oVX3k3RLLS", "Uj0uSGO": "a414QTweCXacqn", "ATJuqA7": "zdhW+uWlLCvjDX", "IMwhIjB": "vHS0WoH5SmwYmQ", "bUmSDrM": "Q5DU4FheKYIIfH", "xSUJmLf": "FC/jHnx/yzEkpN", "yWVahrk": "QmptCxbbZG7bDy", "npxCbiL": "0Dcgkp3g70+Q2B", "p83H45Y": "zdhW+uWlLCvjDX", "G3qs9k4": "Q5DU4FheKYIIfH", "CKOyXsF": "v/sbdiAGeWDv0k", "oQN7gLE": "v/sbdiAGeWDv0k", "H2Q6aEG": "XcRLIP2XcJb6In", "nY3iFfJ": "2nGZ86L+cGEn53", "DnmTYae": "qwSCqDY1h0l1To", "Yt37wLR": "zdhW+uWlLCvjDX", "ZG7Wwwx": "3Mcr12/DelJ5/d", "XXUlfhO": "zdhW+uWlLCvjDX", "eQr4eLf": "udZeaNz4nsP+Df", "Cx3stQw": "Q5DU4FheKYIIfH", "hBmTq8p": "CF4WswIK+LL+Ua", "leVglye": "htXrYBlcRtwEYE", "IvqD6tG": "Q5DU4FheKYIIfH", "ot8VSK3": "5pDWD/q+wbL9s8", "zS0iYGT": "zdhW+uWlLCvjDX", "XQEFyVP": "PWBNuzUvleM+Ne", "ayjO1ZQ": "Q5DU4FheKYIIfH", "nMK0gfi": "QmptCxbbZG7bDy", "U5tM91L": "dh/F4KolQHPMP7", "ZRWvqmv": "/yfYu+Da5pGDIZ", "mqT4ywk": "eBZOVn6m9Wj2gf", "baPGamj": "2nGZ86L+cGEn53"}});
+            var _components = [new(require("view/livenode").InteractionModeBanner)("mUuD9Q9","",{},{}),new(require("view/livenode").ErrorBanner)("fA0se3B","",{"default_text": "Your request was not completed."},{}),new(require("unified_view/sharethis").SharethisImageTracker)("npxCbiL","",{"image_source": ""},{}),new(require("unified_view/facebook").TokenRefresher)("UF8zzha","",{"redirect_url": "https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism"},{}),new(require("unified_view/components").JSTest)("zipwkgg","",{},{}),new(require("app/view/site_header/logged_out").LoggedOutSiteHeader)("fQDq7Gk","",{"qid": 3482257, "vote_source": "question"},{}),new(require('app/view/question/lookup_bar').LookupBarSelector)("IKrY8LQ","lookup_bar",{"interstitials": {"answer": ["Ask and answer a question!", "Write about what you know by asking the question first."], "bad": ["Is your question complete?", "Make sure to fill out a complete sentence that's in the form of a question."], "good": ["You're almost there!", "Make sure to double-check your phrasing before you press Submit."], "button": ["Ask your question here!", "Write your question as a complete sentence, then press Submit."], "ask_question": ["What is your question?", "Ask a question and get answers from people with unique insights."]}, "max_concurrent_requests": 3, "keepFilters": "", "length_limit": null, "shouldSendJsData": false, "allow_no_selection": true, "hasResults": false, "selector_id": 502361136, "metadata": {}, "opening_question_punctuation": "", "max_cache_size": 50, "should_go_to_search_on_enter": false, "is_textarea": true, "logged_in": false, "query": "", "should_autofocus": true, "closing_question_punctuation": "?", "show_results_for_empty_query": false},{}),new(require("unified_view/signup/conversion_logging").ConversionLogging)("GyYvycp","",{},{}),new(require("app/view/layout").QTextImageEnlarger)("gcVbttt","",{},{}),new(require("app/view/layout").QTextEmbedEnlarger)("YcN5BRn","",{},{}),new(require("app/view/layout").QTextGIFPlayer)("FNyZg8m","",{},{}),new(require("app/view/home").ContentPageFeed)("xwQLVfl","",{"switch_hide": "@_truncated", "switch_show": "@_expanded", "log_switch_time": true, "switch_on": ["load"], "loading_hide": "@loadinghide", "fetch_on": ["load"], "fetch_into": "@_expanded", "loading_show": "@loadingshow", "serialized_args": "000100008c32863a48ad4b1903ce00d5734a4ead80c534c342efc2b06f4babc016079196a5f112f1c3faa70385b10f7ec05204be8f7b2a1f6e7cd4e5455c8275abfb6dac655494fb4d2f8a07b74b1c1e3d10384d67436b45d5d4f25d90b481dd1cc1fc68"},{}),new(require('login').LoginSignal)("vltFGhZ","",{"uid": null},{}),new(require('unified_view/signup/_signup').DialogSignupFormWrapper)("FIPngTy","",{"sign_in_text": "Sign In", "current_url": "https://www.quora.com/Does-Richard-Dawkins-like-Unitarian-Universalism", "dismissible": true},{}),new(require("view/captcha").Captcha)("tkNQaIt","",{},{}),new(require("unified_view/smyte").SmyteComponent)("S9tSpxe","",{"hashed_uid": null, "api_key": "caf6615f63677124eac72d381cb0a91e", "session_id": "91afe4643181679b6731fda1ac3cbeb174a6cfe179f99306c8c295f2d9e77249"},{}),new(require("unified_view/reauth").ReauthWrapper)("RbCoRxh","",{},{}),new(require("view/livenode").LiveSpinner)("txTBSCQ","",{},{}),new(require("view/pmsg").PMsgContainer)("LdBKHv0","",{},{}),new(require('unified_view/signup/google').GoogleAutoLoginWeb)("Y5pf08P","",{"scopes": ["email", "profile"]},{}),new(require("app/view/question").QuestionMain)("qbVftWe","",{"record_impression": true, "qid": 3482257},{}),new(require("app/view/question").QuestionArea)("RCCUg1d","",{"qid": 3482257},{}),new(require("unified_view/question/text").QuestionText)("IqxOKEO","",{},{}),new(require("app/view/topic/topic_list").QuestionTopicHorizontalList)("HMDoASf","",{"qid": 3482257},{}),new(require("app/view/topic/topic_list").TopicListItem)("hnfHU0l","",{"tid": 48889, "remove_tooltip_text": "Remove", "qid": 3482257},{}),new(require("view/hover_menu").HoverMenu)("DP1ijmV","",{"css_positioning": false, "on": null, "load_on_pageload": false, "should_preload_menu": false, "alignment": "left", "attach_to_body": true, "kwargs": {"tid": 48889}, "click_open": false, "should_show_hover_menu": true, "show_menu": true},{}),new(require("app/view/topic").TopicTrendingIndicator)("DnmTYae","",{"tooltipText": "Trending"},{}),new(require("app/view/topic/topic_list").TopicListItem)("BHtKyej","",{"tid": 7687, "remove_tooltip_text": "Remove", "qid": 3482257},{}),new(require("view/hover_menu").HoverMenu)("hghVXkr","",{"css_positioning": false, "on": null, "load_on_pageload": false, "should_preload_menu": false, "alignment": "left", "attach_to_body": true, "kwargs": {"tid": 7687}, "click_open": false, "should_show_hover_menu": true, "show_menu": true},{}),new(require("app/view/topic").TopicTrendingIndicator)("NwdXBKH","",{"tooltipText": "Trending"},{}),new(require('app/view/question').QuestionDetails)("vLBktKI","",{},{}),new(require("unified_view/question/prompt").QuestionMergedPrompt)("leVglye","",{"qid": 3482257},{}),new(require("app/view/question").AnswerListDiv)("ziWu4He","",{},{}),new(require("view/paged_list").PagedList)("znuwJdr","",{"retarget_links": true, "buffer_count": 6, "fixed_size_paged_list": false, "initial_count": 6, "has_more": true, "auto_paged": true, "object_id": 3482257, "crawler": false},{}),new(require("view/paged_list").PagedListMoreButton)("H5a9MnA","more_button",{"auto_click_period": 6000},{}),new(require("shared/action_log").ActionableComponent)("fAd8Tc6","",{"impression_target": {"hash": "answer_ranking|706348024", "type": 4}},{}),new(require("app/view/question").AnswerPagedListItem)("pC5yKxo","",{"view_tracking_hash": "ca598d1c15abb432a45cff7df9767548", "view_tracking_key": "a-12068503"},{}),new(require('app/view/question').AnswerActions)("YH0FDh2","",{},{}),new(require("app/view/components").ExpandedQText)("U5tM91L","",{},{}),new(require('view/voter_list').VoterListModalLink)("D3DTYsq","",{"object_id": 12068503},{}),new(require("app/view/question/wanted_answer").AnswerAttributionSection)("xSUJmLf","",{"aid": 12068503, "qid": null},{}),new(require("app/view/answer").AnswerHeader)("rGNEtac","",{"aid": 12068503},{}),new(require("view/hover_menu").HoverMenu)("ISRHx7o","",{"css_positioning": false, "on": null, "load_on_pageload": false, "should_preload_menu": false, "alignment": "left", "attach_to_body": true, "kwargs": {"qid": 3482257, "uid": 24868166, "aid": 12068503}, "click_open": false, "should_show_hover_menu": true, "show_menu": true},{}),new(require("view/user").UserPhoto)("rP0IVK8","",{},{}),new(require("app/view/user/profile").VerificationBadge)("n2MgJQz","",{"tooltip_text": "Verified profile"},{}),new(require("unified_view/answer/credibility").CredibilitySection)("RRibzKz","",{"aid": 12068503},{}),new(require('unified_view/button/follow').User)("mqT4ywk","",{"target_uid": 24868166, "scribe_log_category": false},{}),new(require("view/user").Name)("gfV2s3d","",{"css_positioning": false, "on": null, "load_on_pageload": false, "should_preload_menu": false, "alignment": "left", "attach_to_body": true, "kwargs": {"qid": 3482257, "uid": 24868166, "aid": 12068503}, "click_open": false, "should_show_hover_menu": true, "show_menu": true},{}),new(require("app/view/question").AnswerPermaLink)("ZRWvqmv","",{},{}),new(require("unified_view/datetime_").DateTimeComponent)("gvR7n6P","",{"epoch_us": 1430683015202627, "js_disp": false, "granularity": null, "js_update_interval": 0},{}),new(require("app/view/question").RelatedQuestionsList)("jdIpAJQ","",{"inline": true, "show_ad": false, "is_expanded": false},{}),new(require("app/view/question").RelatedQuestionLink)("k6ifiDW","",{"impression_target": {"hash": "related_questions|1511938|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("ayjO1ZQ","",{},{}),new(require("app/view/question").RelatedQuestionLink)("F3ComxH","",{"impression_target": {"hash": "related_questions|840959|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("YXdKnHx","",{},{}),new(require("app/view/question").RelatedQuestionLink)("YIY3hqz","",{"impression_target": {"hash": "related_questions|2079937|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("mHYb5wu","",{},{}),new(require("app/view/question").RelatedQuestionLink)("OMk6vVb","",{"impression_target": {"hash": "related_questions|1884344|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("Cx3stQw","",{},{}),new(require("app/view/question").RelatedQuestionLink)("XXUlfhO","",{"impression_target": {"hash": "related_questions|3640169|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("IvqD6tG","",{},{}),new(require("shared/action_log").ActionableComponent)("QcHlRZL","",{"impression_target": {"hash": "answer_ranking|-1378971410", "type": 4}},{}),new(require("app/view/question").AnswerPagedListItem)("yWVahrk","",{"view_tracking_hash": "a6ba7804c1050ab34b7ed29cb19414d1", "view_tracking_key": "a-10752686"},{}),new(require('app/view/question').AnswerActions)("rZrLjpx","",{},{}),new(require("app/view/components").ExpandedQText)("EAuWvmx","",{},{}),new(require("app/view/answer").AnswerHeader)("tKHNQXV","",{"aid": 10752686},{}),new(require("view/hover_menu").HoverMenu)("BrAHTjL","",{"css_positioning": false, "on": null, "load_on_pageload": false, "should_preload_menu": false, "alignment": "left", "attach_to_body": true, "kwargs": {"qid": 3482257, "uid": 67077057, "aid": 10752686}, "click_open": false, "should_show_hover_menu": true, "show_menu": true},{}),new(require("view/user").UserPhoto)("v46318d","",{},{}),new(require("app/view/user/profile").VerificationBadge)("IMwhIjB","",{"tooltip_text": "Verified profile"},{}),new(require("unified_view/answer/credibility").CredibilitySection)("YieWbHn","",{"aid": 10752686},{}),new(require('unified_view/button/follow').User)("omLqzDK","",{"target_uid": 67077057, "scribe_log_category": false},{}),new(require("view/user").Name)("eQr4eLf","",{"css_positioning": false, "on": null, "load_on_pageload": false, "should_preload_menu": false, "alignment": "left", "attach_to_body": true, "kwargs": {"qid": 3482257, "uid": 67077057, "aid": 10752686}, "click_open": false, "should_show_hover_menu": true, "show_menu": true},{}),new(require("app/view/question").AnswerPermaLink)("GqBYwc8","",{},{}),new(require("unified_view/datetime_").DateTimeComponent)("THMOvQU","",{"epoch_us": 1427147458743256, "js_disp": false, "granularity": null, "js_update_interval": 0},{}),new(require('view/voter_list').VoterListModalLink)("VMRPUuy","",{"object_id": 10752686},{}),new(require("app/view/question/wanted_answer").AnswerAttributionSection)("QJj4kZ1","",{"aid": 10752686, "qid": null},{}),new(require("shared/action_log").ActionableComponent)("yGbhSpY","",{"impression_target": {"hash": "answer_ranking|505722147", "type": 4}},{}),new(require("app/view/question").AnswerPagedListItem)("nMK0gfi","",{"view_tracking_hash": "f43e5e11bbaa58fc02e2327646678521", "view_tracking_key": "a-26574645"},{}),new(require('app/view/question').AnswerActions)("rwGb5Zi","",{},{}),new(require("app/view/answer").AnswerHeader)("UzlKsua","",{"aid": 26574645},{}),new(require("view/hover_menu").HoverMenu)("hBmTq8p","",{"css_positioning": false, "on": null, "load_on_pageload": false, "should_preload_menu": false, "alignment": "left", "attach_to_body": true, "kwargs": {"qid": 3482257, "uid": 121673620, "aid": 26574645}, "click_open": false, "should_show_hover_menu": true, "show_menu": true},{}),new(require("view/user").UserPhoto)("CbQ2675","",{},{}),new(require("app/view/user/profile").VerificationBadge)("l51vvid","",{"tooltip_text": "Verified profile"},{}),new(require("unified_view/answer/credibility").CredibilitySection)("U9g6wyu","",{"aid": 26574645},{}),new(require('unified_view/button/follow').User)("JOvxDK5","",{"target_uid": 121673620, "scribe_log_category": false},{}),new(require("view/user").Name)("pJEFyzS","",{"css_positioning": false, "on": null, "load_on_pageload": false, "should_preload_menu": false, "alignment": "left", "attach_to_body": true, "kwargs": {"qid": 3482257, "uid": 121673620, "aid": 26574645}, "click_open": false, "should_show_hover_menu": true, "show_menu": true},{}),new(require("app/view/question").AnswerPermaLink)("VNHLGr9","",{},{}),new(require("unified_view/datetime_").DateTimeComponent)("pOcvSFU","",{"epoch_us": 1471404383639805, "js_disp": false, "granularity": null, "js_update_interval": 0},{}),new(require("app/view/components").ExpandedQText)("XVdLtvz","",{},{}),new(require("app/view/question/wanted_answer").AnswerAttributionSection)("VYDTehq","",{"aid": 26574645, "qid": null},{}),new(require("shared/action_log").ActionableComponent)("lLyKIiT","",{"impression_target": {"hash": "answer_ranking|226069086", "type": 4}},{}),new(require("app/view/question").AnswerPagedListItem)("BZELIq1","",{"view_tracking_hash": "8ee7f648dcd872a13348e61ad84b59cf", "view_tracking_key": "a-20437601"},{}),new(require('app/view/question').AnswerActions)("SG7qv9n","",{},{}),new(require("app/view/answer").AnswerHeader)("lR8fjxk","",{"aid": 20437601},{}),new(require("view/hover_menu").HoverMenu)("VeoadhU","",{"css_positioning": false, "on": null, "load_on_pageload": false, "should_preload_menu": false, "alignment": "left", "attach_to_body": true, "kwargs": {"qid": 3482257, "uid": 54038818, "aid": 20437601}, "click_open": false, "should_show_hover_menu": true, "show_menu": true},{}),new(require("view/user").UserPhoto)("wsNqdl4","",{},{}),new(require("app/view/user/profile").VerificationBadge)("cYNIJbS","",{"tooltip_text": "Verified profile"},{}),new(require("unified_view/answer/credibility").CredibilitySection)("mD2Q9EJ","",{"aid": 20437601},{}),new(require('unified_view/button/follow').User)("IMDjFNV","",{"target_uid": 54038818, "scribe_log_category": false},{}),new(require("view/user").Name)("deTx0kO","",{"css_positioning": false, "on": null, "load_on_pageload": false, "should_preload_menu": false, "alignment": "left", "attach_to_body": true, "kwargs": {"qid": 3482257, "uid": 54038818, "aid": 20437601}, "click_open": false, "should_show_hover_menu": true, "show_menu": true},{}),new(require("app/view/question").AnswerPermaLink)("Xz3RfOa","",{},{}),new(require("unified_view/datetime_").DateTimeComponent)("ot8VSK3","",{"epoch_us": 1457677821199117, "js_disp": false, "granularity": null, "js_update_interval": 0},{}),new(require("app/view/components").ExpandedQText)("a2fNrX0","",{},{}),new(require('view/voter_list').VoterListModalLink)("ifwpS4x","",{"object_id": 20437601},{}),new(require("app/view/question/wanted_answer").AnswerAttributionSection)("tkrkzbJ","",{"aid": 20437601, "qid": null},{}),new(require("shared/action_log").ActionableComponent)("ZG7Wwwx","",{"impression_target": {"hash": "answer_ranking|-660335139", "type": 4}},{}),new(require("app/view/question").AnswerPagedListItem)("Z3AVMRK","",{"view_tracking_hash": "659a61489a0f010a6c25a44195fde0cf", "view_tracking_key": "a-10535899"},{}),new(require('app/view/question').AnswerActions)("Uj0uSGO","",{},{}),new(require("app/view/answer").AnswerHeader)("LsiJGnK","",{"aid": 10535899},{}),new(require("view/hover_menu").HoverMenu)("flViI27","",{"css_positioning": false, "on": null, "load_on_pageload": false, "should_preload_menu": false, "alignment": "left", "attach_to_body": true, "kwargs": {"qid": 3482257, "uid": 4616198, "aid": 10535899}, "click_open": false, "should_show_hover_menu": true, "show_menu": true},{}),new(require("view/user").UserPhoto)("WAcBJEV","",{},{}),new(require("app/view/user/profile").VerificationBadge)("WCFHsKF","",{"tooltip_text": "Verified profile"},{}),new(require("unified_view/answer/credibility").CredibilitySection)("RLOjoK5","",{"aid": 10535899},{}),new(require("app/view/question").AnswerPermaLink)("RihsbiU","",{},{}),new(require("unified_view/datetime_").DateTimeComponent)("R8oRmgW","",{"epoch_us": 1426434950637841, "js_disp": false, "granularity": null, "js_update_interval": 0},{}),new(require('unified_view/button/follow').User)("jUxYspL","",{"target_uid": 4616198, "scribe_log_category": false},{}),new(require("view/user").Name)("zJ0NjhX","",{"css_positioning": false, "on": null, "load_on_pageload": false, "should_preload_menu": false, "alignment": "left", "attach_to_body": true, "kwargs": {"qid": 3482257, "uid": 4616198, "aid": 10535899}, "click_open": false, "should_show_hover_menu": true, "show_menu": true},{}),new(require("app/view/components").ExpandedQText)("oGy1QMr","",{},{}),new(require('view/voter_list').VoterListModalLink)("qdbS5Cw","",{"object_id": 10535899},{}),new(require("app/view/question/wanted_answer").AnswerAttributionSection)("S6nNAjm","",{"aid": 10535899, "qid": null},{}),new(require("app/view/question").RelatedQuestionsList)("jEzIa0y","",{"inline": true, "show_ad": false, "is_expanded": false},{}),new(require("app/view/question").RelatedQuestionLink)("r2gTuS2","",{"impression_target": {"hash": "related_questions|11796831|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("llLHLDi","",{},{}),new(require("app/view/question").RelatedQuestionLink)("lvqdFpb","",{"impression_target": {"hash": "related_questions|11405654|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("gpzv1fe","",{},{}),new(require("app/view/question").RelatedQuestionLink)("OPRgCOk","",{"impression_target": {"hash": "related_questions|7068280|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("fEO9BMX","",{},{}),new(require("app/view/question").RelatedQuestionLink)("w4zE5QZ","",{"impression_target": {"hash": "related_questions|12718646|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("jUQyVww","",{},{}),new(require("app/view/question").RelatedQuestionLink)("rzuUSET","",{"impression_target": {"hash": "related_questions|2439893|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("bUmSDrM","",{},{}),new(require("app/view/question").RelatedQuestionLink)("OwtbbWH","",{"impression_target": {"hash": "related_questions|5084411|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("V05Oe5A","",{},{}),new(require("app/view/question").RelatedQuestionLink)("sI3A2pj","",{"impression_target": {"hash": "related_questions|11391419|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("Em7KfAn","",{},{}),new(require("app/view/question").RelatedQuestionLink)("Yt37wLR","",{"impression_target": {"hash": "related_questions|1109001|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("xUydd3E","",{},{}),new(require("app/view/question").RelatedQuestionLink)("hg2RbS7","",{"impression_target": {"hash": "related_questions|7720028|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("vAvguik","",{},{}),new(require("app/view/question").RelatedQuestionLink)("oAXiOy2","",{"impression_target": {"hash": "related_questions|2834104|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("gLLjAw0","",{},{}),new(require("app/view/question").RelatedQuestionLink)("kZv7Ngf","",{"impression_target": {"hash": "related_questions|2728016|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("DcDXZxX","",{},{}),new(require("app/view/question").RelatedQuestionLink)("jIRYVoo","",{"impression_target": {"hash": "related_questions|3772381|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("nYIUkIM","",{},{}),new(require("app/view/question").RelatedQuestionLink)("GMZQbmt","",{"impression_target": {"hash": "related_questions|12781515|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("qxdCNHi","",{},{}),new(require("app/view/question").RelatedQuestionLink)("sveMips","",{"impression_target": {"hash": "related_questions|1249484|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("G520SMx","",{},{}),new(require("app/view/question").RelatedQuestionLink)("L816758","",{"impression_target": {"hash": "related_questions|6976994|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("ohqs2MX","",{},{}),new(require("app/view/question").RelatedQuestions)("tRERWyZ","",{"switch_hide": "@_truncated", "switch_show": "@_expanded", "log_switch_time": true, "switch_on": ["click", "@more"], "loading_hide": "@loadinghide", "fetch_on": ["click", "@more"], "fetch_into": "@_expanded", "loading_show": "@loadingshow", "serialized_args": "0001000046a879974ff1cc54aaac898a31680cd1116a7794616dbf902a2b05bed745cd828eff6a51723ed32d09f9cac278c64276f1d079cc359931f856ae57f689035b9f83c8c67fe87a86095d61593bb11623cef3d8adc0aed81f36ba720649ab400e316c8982031465e604237a1c7eb3480f4b7b2a23b5a870933eb014004549cbc986e0b0918e1ac37f750391fae1b9ce1d70bca09024afcff1a9d5cecb9ff2f9006dde32e4260273217aa000e13d211fbbdba638b5fde69e9b7beabca2f285d9868aec6beae1c8cd5c4715054f7b0fd1b3c0a85f6cf557d4a30e8ca2c3f2ff673f5a3327741bb288ea532dd1357f1d7ab6da694852ac1ac1575a1140aa02773263589b258cc46eebdfae12157f7efa0652bb"},{}),new(require("app/view/question").RelatedQuestionsList)("BFsAuxY","",{"inline": false, "show_ad": false, "is_expanded": false},{}),new(require("app/view/question").RelatedQuestionLink)("d48bsg8","",{"impression_target": {"hash": "related_questions|1511938|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("n8KMHYS","",{},{}),new(require("app/view/question").RelatedQuestionLink)("p83H45Y","",{"impression_target": {"hash": "related_questions|840959|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("kgatN4n","",{},{}),new(require("app/view/question").RelatedQuestionLink)("Um5767u","",{"impression_target": {"hash": "related_questions|2079937|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("tzfINwT","",{},{}),new(require("app/view/question").RelatedQuestionLink)("Hh6Ue7A","",{"impression_target": {"hash": "related_questions|1884344|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("OsbQrzZ","",{},{}),new(require("app/view/question").RelatedQuestionLink)("zS0iYGT","",{"impression_target": {"hash": "related_questions|3640169|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("VvpsV7L","",{},{}),new(require("app/view/question").RelatedQuestionLink)("mojZQFd","",{"impression_target": {"hash": "related_questions|11796831|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("P8QRcEF","",{},{}),new(require("app/view/question").RelatedQuestionLink)("ATJuqA7","",{"impression_target": {"hash": "related_questions|11405654|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("QglwoJ1","",{},{}),new(require("app/view/question").RelatedQuestionLink)("VyQBfUA","",{"impression_target": {"hash": "related_questions|7068280|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("G3qs9k4","",{},{}),new(require("app/view/question").RelatedQuestionLink)("tAXmqwo","",{"impression_target": {"hash": "related_questions|12718646|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("j49nou6","",{},{}),new(require("app/view/question").RelatedQuestionLink)("US2C5KC","",{"impression_target": {"hash": "related_questions|2439893|788120970", "type": 21}},{}),new(require("app/view/question").QuestionLink)("J4sBO75","",{},{})];
+            coreComponent.registerComponents(_components);
+            coreComponent.onLoad(_components, true);
+        require("shared/core/component").afterOnLoad();});
+  </script>
+  <script type="text/javascript">
+   require.whenReady("shared/main-loaded", function() {require('shared/onload').execAfterLoadDelayed(function() {
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-16618355-1', 'auto', {'sampleRate': 1});
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+ga('set', 'dimension1', 'Question');
+ga('set', 'dimension2', 'False');
+ga('set', 'dimension3', 'False');});});
+  </script>
+  <script type="text/javascript">
+   require.whenReady("shared/main-loaded", function() {
+            var w2_timing = require('shared/w2.timing');
+            var timing = w2_timing.timing;
+            window.addEventListener('DOMContentLoaded', function() {
+                w2_timing.logTime('documentReady');
+            });
+            window.addEventListener('load', function() {
+                w2_timing.logTime('windowLoad');
+                require('shared/e2e').reportPageData({"mustReport": true, "standard": {"owner": 21, "e2e": null, "server_side": 600, "server_side_goal": 350}});
+            });
+            timing.server_time = 399.43;
+            timing.total_worker_time = 1360.41;
+            timing.window_id = "dep3000-222427091097430322";
+            timing.page = 399.43;
+            timing.request = 405.30;
+            timing.is_css_inlined = false;
+            timing.is_early_js_inlined = false;
+            timing.page_size = 45992;
+            timing.experiments = "AAEAAGnF/Guo6i+Vk5Frju1I6wrR7dz0kxCSW421yMU9gtFS62BSyWfZvok1D8wusMDfNCZAlFM7Vv2SCJd8lBsWReU=";
+        });
+  </script>
+  <iframe aria-hidden="true" id="oauth2relay1690747446" name="oauth2relay1690747446" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/postmessageRelay.html" style="width: 1px; height: 1px; position: absolute; top: -100px;" tabindex="-1">
+  </iframe>
+  <div class=" fb_reset" id="fb-root">
+   <div style="position: absolute; top: -10000px; height: 0px; width: 0px;">
+    <div>
+    </div>
+   </div>
+   <div style="position: absolute; top: -10000px; height: 0px; width: 0px;">
+    <div>
+     <iframe allowfullscreen="true" allowtransparency="true" aria-hidden="true" frameborder="0" id="fb_xdm_frame_https" name="fb_xdm_frame_https" scrolling="no" src="./Does Richard Dawkins like Unitarian Universalism_ - Quora_files/ao6eUeuGXQq.html" style="border: none;" tabindex="-1" title="Facebook Cross Domain Communication Frame">
+     </iframe>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

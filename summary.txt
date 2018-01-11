@@ -1,0 +1,7 @@
+The final summary will go here that will be displayed in appropriate position.
+
+The value of positive for the keyword is 59%.
+
+The value for the negative is 41%.
+
+Rajesh is hero.

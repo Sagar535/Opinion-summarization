@@ -1,0 +1,3 @@
+for par in soup.find_all('span',attrs={'class':'rendered_qtext'}):
+	pgh=cleanhtml(str(par))
+	print(pgh)

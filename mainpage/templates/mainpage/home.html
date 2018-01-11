@@ -1,0 +1,43 @@
+	{% extends "mainpage/header.html" %}
+
+
+  {%block title%} Opinion Summarization{%endblock%}
+
+	{% block content %}
+
+	<script >
+   function clearContents(element) {
+  element.value = '';
+} 
+  </script>
+	
+  <div class="col-sm-4" id="grid" data-columns>
+    
+      <a href="./bar/" class="thumbnail" style="width: 100%"><img src="/static/img/images.jpg"></a>
+
+  </div>
+
+  <div class = "col-sm-4" id="grid" data-columns2>
+
+  		<a href="./wordCloud/" class="thumbnail" style="width: 100%"><img src="/static/img/wordCloud.jpg"></a>
+
+  </div>
+
+  <div class = "row content">
+    
+  <div class = "col-sm-8 form-group">
+    
+     <form action = "/evaluation/" method = "post">
+        {% csrf_token %}
+        <textarea onfocus="clearContents(this);" input="inputText" rows=10 cols=60 wrap=on name="evaluation" > Enter for evaluation</textarea>
+      <button type="submit" class="btn btn-default">Submit</button>
+     </form>
+
+  </div>
+
+  </div>
+
+ 
+  <!-- first col-sm-4 -->
+
+	{% endblock%}

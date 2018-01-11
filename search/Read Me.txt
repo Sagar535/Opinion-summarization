@@ -1,0 +1,39 @@
+for Rajesh:
+index2 bata start garney.
+teslai run gar paxi aafai interface aauxa
+
+polarity seperate garna sakney vako xa svm
+
+option 1 ko train garna ko laagi it takes about 4-5 minutes
+
+option 4 (train svm ma 2 ota option xa. solve or load)
+solving takes approx 20-25 min
+so it is already solve just load it
+
+option 6 is used for testing
+jasto sentence haalera test gare pani hunxa.
+positive sentece ko out put 1 aauxa
+negative sentence ko output -1 aauxa.
+
+P.S. test garna ko laagi direct test gare pani hunxa. no need to train,load
+nothing
+
+sequence of operation
+option 1(not mandatory)
+2
+3
+5
+4
+6
+7 to break
+
+For Sandeep
+Maile naya .py file banaye mukhya.py tara tyo ta jati khera delete gareni hun6
+
+Ani index.py ta scrapping ko lagi bhayo
+Ani index_2.py ko maile mainop() function lai matra call garane banaye
+Tyo main() chai aba aafai le training garda matra use garda ramro hola
+
+Maile Scrapped bhanne folder banako 6u hera
+Tesma URLs ra Texts folder chha tesma URLs ta scrapped data save garnu par6
+So delete nagara hai   
